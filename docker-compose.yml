@@ -15,23 +15,10 @@ services:
       DB_DATABASE: demo
 
       ######### Testmiljø:
-      
-      # CLIENT_ID: ${CLIENT_ID}
-      # CLIENT_SECRET: ${CLIENT_SECRET}
-      # EIDASPRIVATEKEY: ${EIDASPRIVATEKEY}
-      # KONTO: ${TEST_KONTO}
-      # AUTH_ID: ${TEST_AUTH_ID}
-      # AGREEMENT_ID: ${TEST_AGREEMENT_ID}
 
       ######### Produktionsmiljø:
 
-      CLIENT_ID: ${PRODUKTIONSKEY}
-      CLIENT_SECRET: ${PRODUKTIONSSECRET}
-      EIDASPRIVATEKEY: ${PROD_EIDASPRIVATEKEY}
-      HOVEDKONTO: ${HOVEDKONTO}
-      DEBITORKONTO: ${DEBITORKONTO}
-      AUTH_ID: ${PROD_AUTH_ID}
-      AGREEMENT_ID: ${PROD_AGREEMENT_ID}
+      HOVEDNØGLE: ${HOVEDKEY}
 
       FLOWS: "/data/flows.json"
 
