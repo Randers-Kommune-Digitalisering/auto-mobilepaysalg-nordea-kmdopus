@@ -4,7 +4,7 @@ const Node = {
   "z": "3ba6bac1c411ace6",
   "g": "a72cb7bc6d1977da",
   "name": "Make endpoint",
-  "url": "/rules",
+  "url": "/agreements",
   "method": "get",
   "upload": false,
   "swaggerDoc": "",
@@ -15,7 +15,7 @@ const Node = {
       "794334051db22622"
     ]
   ],
-  "_order": 132
+  "_order": 121
 }
 
 module.exports = Node;

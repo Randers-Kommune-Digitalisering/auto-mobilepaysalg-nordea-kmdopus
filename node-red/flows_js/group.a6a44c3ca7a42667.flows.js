@@ -20,7 +20,7 @@ const Node = {
   ],
   "x": 134,
   "y": 1239,
-  "_order": 34
+  "_order": 33
 }
 
 module.exports = Node;

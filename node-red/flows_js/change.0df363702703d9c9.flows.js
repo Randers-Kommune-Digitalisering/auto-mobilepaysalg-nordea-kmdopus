@@ -3,54 +3,15 @@ const Node = {
   "type": "change",
   "z": "5a8afc5afb89916f",
   "g": "f51cc7b4f0bee577",
-  "name": "Credentials",
+  "name": "env vars",
   "rules": [
     {
       "t": "set",
-      "p": "eidasPrivateKey",
+      "p": "api_key",
       "pt": "global",
-      "to": "EIDASPRIVATEKEY",
+      "to": "HOVEDNØGLE",
       "tot": "env",
       "dc": true
-    },
-    {
-      "t": "set",
-      "p": "X-IBM-Client-Id",
-      "pt": "global",
-      "to": "CLIENT_ID",
-      "tot": "env",
-      "dc": true
-    },
-    {
-      "t": "set",
-      "p": "X-IBM-Client-Secret",
-      "pt": "global",
-      "to": "CLIENT_SECRET",
-      "tot": "env",
-      "dc": true
-    },
-    {
-      "t": "set",
-      "p": "agreement_id",
-      "pt": "global",
-      "to": "AGREEMENT_ID",
-      "tot": "env",
-      "dc": true
-    },
-    {
-      "t": "delete",
-      "p": "query_param",
-      "pt": "flow"
-    },
-    {
-      "t": "delete",
-      "p": "query_param1",
-      "pt": "flow"
-    },
-    {
-      "t": "delete",
-      "p": "query_param2",
-      "pt": "flow"
     }
   ],
   "action": "",
@@ -58,14 +19,14 @@ const Node = {
   "from": "",
   "to": "",
   "reg": false,
-  "x": 470,
+  "x": 460,
   "y": 60,
   "wires": [
     [
       "4c875b1eb2eb9d99"
     ]
   ],
-  "_order": 165
+  "_order": 144
 }
 
 module.exports = Node;

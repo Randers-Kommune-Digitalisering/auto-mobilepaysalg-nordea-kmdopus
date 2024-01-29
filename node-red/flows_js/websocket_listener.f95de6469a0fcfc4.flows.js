@@ -1,9 +1,9 @@
 const Node = {
-  "id": "2e003e356cffe512",
+  "id": "f95de6469a0fcfc4",
   "type": "websocket-listener",
-  "path": "/ws/info",
+  "path": "/ws/agreements",
   "wholemsg": "false",
-  "_order": 74
+  "_order": 75
 }
 
 module.exports = Node;

@@ -9,29 +9,57 @@ const Node = {
       "t": "set",
       "p": "method",
       "pt": "flow",
-      "to": "POST",
+      "to": "GET",
       "tot": "str"
     },
     {
       "t": "set",
       "p": "path",
       "pt": "flow",
-      "to": "/corporate/v2/authorize",
+      "to": "/account/connect/authorize",
       "tot": "str"
     },
     {
       "t": "set",
-      "p": "content-type",
+      "p": "response_type",
       "pt": "flow",
-      "to": "application/json",
+      "to": "code%20id_token",
       "tot": "str"
     },
     {
       "t": "set",
-      "p": "data",
+      "p": "response_mode",
       "pt": "flow",
-      "to": "{\t   \"scope\":[\t       \"ACCOUNTS_BROADBAND\"\t   ],\t   \"duration\":129600,\t   \"agreement_number\":$globalContext('agreement_id')\t}",
-      "tot": "jsonata"
+      "to": "form_post",
+      "tot": "str"
+    },
+    {
+      "t": "set",
+      "p": "client_id",
+      "pt": "flow",
+      "to": "",
+      "tot": "str"
+    },
+    {
+      "t": "set",
+      "p": "redirect_url",
+      "pt": "flow",
+      "to": "",
+      "tot": "str"
+    },
+    {
+      "t": "set",
+      "p": "scope",
+      "pt": "flow",
+      "to": "transactionreporting",
+      "tot": "str"
+    },
+    {
+      "t": "set",
+      "p": "merchant_vat",
+      "pt": "flow",
+      "to": "DK29189668",
+      "tot": "str"
     },
     {
       "t": "set",
@@ -49,11 +77,9 @@ const Node = {
   "x": 620,
   "y": 60,
   "wires": [
-    [
-      "609738a99c453501"
-    ]
+    []
   ],
-  "_order": 168
+  "_order": 147
 }
 
 module.exports = Node;

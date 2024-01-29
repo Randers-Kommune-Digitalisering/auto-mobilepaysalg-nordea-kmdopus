@@ -2,6 +2,7 @@ const Node = {
   "id": "4787b43fdde8f910",
   "type": "template",
   "z": "3ba6bac1c411ace6",
+  "d": true,
   "g": "a72cb7bc6d1977da",
   "name": "JavaScript",
   "field": "payload.script",
@@ -16,7 +17,7 @@ const Node = {
       "13f11dcbe9876165"
     ]
   ],
-  "_order": 133
+  "_order": 122
 }
 
 Node.template = `

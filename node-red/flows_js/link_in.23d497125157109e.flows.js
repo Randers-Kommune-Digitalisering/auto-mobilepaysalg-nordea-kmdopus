@@ -15,7 +15,7 @@ const Node = {
     ]
   ],
   "icon": "font-awesome/fa-caret-right",
-  "_order": 242
+  "_order": 200
 }
 
 module.exports = Node;
