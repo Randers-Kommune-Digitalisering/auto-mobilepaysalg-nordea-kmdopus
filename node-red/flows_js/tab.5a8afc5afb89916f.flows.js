@@ -1,7 +1,7 @@
 const Node = {
   "id": "5a8afc5afb89916f",
   "type": "tab",
-  "label": "Bank authorisation",
+  "label": "Request",
   "disabled": false,
   "info": "",
   "env": [],

@@ -1,28 +1,29 @@
 const Node = {
-  "id": "bd8d86e3e63a7788",
+  "id": "647a8e3f4b2e4f18",
   "type": "http request",
   "z": "5a8afc5afb89916f",
-  "g": "f51cc7b4f0bee577",
-  "name": "Confim Auth",
-  "method": "PUT",
-  "ret": "obj",
+  "g": "e8ac061ee2e34438",
+  "name": "",
+  "method": "GET",
+  "ret": "txt",
   "paytoqs": "ignore",
   "url": "",
   "tls": "",
   "persist": false,
   "proxy": "",
   "insecureHTTPParser": false,
-  "authType": "bearer",
+  "authType": "",
   "senderr": false,
   "headers": [],
-  "x": 1110,
-  "y": 100,
+  "x": 575,
+  "y": 60,
   "wires": [
     [
-      "31513402e4efeb41"
+      "5b051b1e8ec2e44b"
     ]
   ],
-  "_order": 149
+  "l": false,
+  "_order": 136
 }
 
 module.exports = Node;

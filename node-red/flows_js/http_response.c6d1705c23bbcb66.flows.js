@@ -6,10 +6,11 @@ const Node = {
   "name": "Frontend response node",
   "statusCode": "",
   "headers": {},
-  "x": 730,
-  "y": 280,
+  "x": 355,
+  "y": 140,
   "wires": [],
-  "_order": 123
+  "l": false,
+  "_order": 114
 }
 
 module.exports = Node;

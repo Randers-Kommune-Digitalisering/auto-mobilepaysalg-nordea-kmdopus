@@ -8,14 +8,15 @@ const Node = {
   "method": "get",
   "upload": false,
   "swaggerDoc": "",
-  "x": 120,
-  "y": 280,
+  "x": 65,
+  "y": 140,
   "wires": [
     [
       "794334051db22622"
     ]
   ],
-  "_order": 121
+  "l": false,
+  "_order": 112
 }
 
 module.exports = Node;

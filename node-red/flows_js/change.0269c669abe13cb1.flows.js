@@ -1,17 +1,16 @@
 const Node = {
-  "id": "0df363702703d9c9",
+  "id": "0269c669abe13cb1",
   "type": "change",
   "z": "5a8afc5afb89916f",
-  "g": "f51cc7b4f0bee577",
-  "name": "env vars",
+  "g": "e8ac061ee2e34438",
+  "name": "",
   "rules": [
     {
       "t": "set",
-      "p": "api_key",
-      "pt": "global",
-      "to": "HOVEDNØGLE",
-      "tot": "env",
-      "dc": true
+      "p": "transactions",
+      "pt": "flow",
+      "to": "payload.transactions",
+      "tot": "msg"
     }
   ],
   "action": "",
@@ -19,14 +18,15 @@ const Node = {
   "from": "",
   "to": "",
   "reg": false,
-  "x": 460,
+  "x": 760,
   "y": 60,
   "wires": [
     [
-      "4c875b1eb2eb9d99"
+      "08a49e9b043bea11",
+      "f39870190694e62a"
     ]
   ],
-  "_order": 144
+  "_order": 141
 }
 
 module.exports = Node;

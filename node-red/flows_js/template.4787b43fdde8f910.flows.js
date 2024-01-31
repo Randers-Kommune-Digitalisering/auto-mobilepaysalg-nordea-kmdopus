@@ -10,14 +10,14 @@ const Node = {
   "format": "javascript",
   "syntax": "plain",
   "template": "",
-  "x": 410,
-  "y": 280,
+  "x": 210,
+  "y": 140,
   "wires": [
     [
       "13f11dcbe9876165"
     ]
   ],
-  "_order": 122
+  "_order": 113
 }
 
 Node.template = `

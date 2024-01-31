@@ -15,7 +15,7 @@ const Node = {
   "wires": [
     []
   ],
-  "_order": 95
+  "_order": 86
 }
 
 Node.template = `
