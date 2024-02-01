@@ -2,19 +2,22 @@ const Node = {
   "id": "28ef1135a11fcde5",
   "type": "function",
   "z": "5a8afc5afb89916f",
-  "name": "function 1",
+  "g": "608c296403fab569",
+  "name": "Matching",
   "func": "",
   "outputs": 1,
   "noerr": 0,
   "initialize": "",
   "finalize": "",
   "libs": [],
-  "x": 100,
-  "y": 180,
+  "x": 240,
+  "y": 120,
   "wires": [
-    []
+    [
+      "b73eae993793d2e5"
+    ]
   ],
-  "_order": 144
+  "_order": 140
 }
 
 Node.func = async function (node, msg, RED, context, flow, global, env, util) {
@@ -29,9 +32,11 @@ Node.func = async function (node, msg, RED, context, flow, global, env, util) {
   // Scope: Tjek alle konteringsregler igennem, regel for regel
   for (let regel of global.get("konteringsregler")) {
       let salgssumSalgssted = 0;
+  
       // For hver transaktion
       for (let payment of transactions) {
-          // Scope: Tjek mulige salgstedstyper
+  
+          // For hver salgstedstype
           for (let i = 0; i < felterMedID.length; i++) {
               let searchword = regel[i].value !== null ? String(regel[i].value).toLowerCase() : null;
               let idPointer = regel[i];
@@ -54,11 +59,10 @@ Node.func = async function (node, msg, RED, context, flow, global, env, util) {
   
       let bankdebkred = salgssumSalgssted < 0 ? 'Kredit' : 'Debet';
       let driftdebkred = bankdebkred === 'Debet' ? 'Kredit' : 'Debet';
-      let tekst = "MP " + regel.name; // Kolonne i konteringsregler med salgsstedets navn skal hedde name
-      let psp = regel.psp ? regel.psp : '';
+      let psp = regel[3].PSP ? regel[3].PSP : '';
   
-      flow.set("posteringsdata_til_drift", [regel.artskonto, '', psp, '', '', driftdebkred, salgssumSalgssted, '', tekst, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']);
-      flow.set("posteringsdata_til_90510000", ['90510000', '', '', '', '', bankdebkred, salgssumSalgssted, '', tekst, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']);
+      flow.set("posteringsdata_til_drift", [regel[3].artskonto, '', psp, '', '', driftdebkred, salgssumSalgssted, '', regel[3].Posteringstekst, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']);
+      flow.set("posteringsdata_til_90510000", ['90510000', '', '', '', '', bankdebkred, salgssumSalgssted, '', regel[3].Posteringstekst, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']);
   
       let output_posteringsdata_til_drift = {};
       let output_posteringsdata_til_90510000 = {};

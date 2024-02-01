@@ -22,7 +22,7 @@ const Node = {
       "66b81c6ebf307b20"
     ]
   ],
-  "_order": 127
+  "_order": 120
 }
 
 Node.func = async function (node, msg, RED, context, flow, global, env, util, csv) {
@@ -35,18 +35,19 @@ Node.func = async function (node, msg, RED, context, flow, global, env, util, cs
       );
   
       const {
+          name,
           myShopNumber,
           brandId,
           Posteringstekst,
           Artskonto,
-          PSP,
-          Notat
+          PSP
       } = cleanedData;
   
       return [
+          { name: "Navn", value: name },
           { name: "MyShop-nummer", value: myShopNumber},
           { name: "PoS-nummer", value: brandId },
-          { Posteringstekst, Artskonto, PSP, Notat },
+          { Posteringstekst, Artskonto, PSP },
           { ruleId: index }
       ];
   });

@@ -5,11 +5,13 @@ const Node = {
   "g": "e8ac061ee2e34438",
   "name": "link out 26",
   "mode": "link",
-  "links": [],
+  "links": [
+    "d9d05c409012a745"
+  ],
   "x": 895,
-  "y": 100,
+  "y": 80,
   "wires": [],
-  "_order": 143
+  "_order": 144
 }
 
 module.exports = Node;

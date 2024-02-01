@@ -17,7 +17,7 @@ const Node = {
       "dd9eaa553d4003dd"
     ]
   ],
-  "_order": 139
+  "_order": 132
 }
 
 Node.func = async function (node, msg, RED, context, flow, global, env, util) {
@@ -28,17 +28,17 @@ Node.func = async function (node, msg, RED, context, flow, global, env, util) {
   
   function findDate(arg) {
       let startDate = new Date();
-      let endDate = new Date();
   
       if (startDate.getDay() === 1) {
-          startDate.setDate(startDate.getDate() - 4); // Subtract 4 days for Monday
+          startDate.setDate(startDate.getDate() - 8); // Subtract 4 days for Monday
       } else {
-          startDate.setDate(startDate.getDate() - 2); // Subtract 2 days for other weekdays
+          startDate.setDate(startDate.getDate() - 6); // Subtract 2 days for other weekdays
       }
+  
+      let endDate = new Date(startDate); // Clone the startDate
   
       // Set end date to the same day as start date but with the time set to 23:59:59
       startDate.setHours(0, 0, 0, 0);
-      endDate.setDate(startDate.getDate());
       endDate.setHours(23, 59, 59, 0);
   
       if (arg === "start") {

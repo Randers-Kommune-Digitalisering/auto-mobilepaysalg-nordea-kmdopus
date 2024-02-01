@@ -1,9 +1,9 @@
 const Node = {
-  "id": "79f957c03eec12f2",
+  "id": "1175d7df5bb172fe",
   "type": "debug",
-  "z": "707b29a288c1c947",
-  "g": "4e41192b906d0287",
-  "name": "Fejl i konvertering til csv",
+  "z": "5a8afc5afb89916f",
+  "g": "82f4a4e9d27b9b29",
+  "name": "Fejl i matching",
   "active": true,
   "tosidebar": true,
   "console": true,
@@ -12,10 +12,10 @@ const Node = {
   "targetType": "full",
   "statusVal": "",
   "statusType": "auto",
-  "x": 320,
-  "y": 1080,
+  "x": 1140,
+  "y": 120,
   "wires": [],
-  "_order": 169
+  "_order": 142
 }
 
 module.exports = Node;
