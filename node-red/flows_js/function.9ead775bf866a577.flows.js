@@ -39,7 +39,7 @@ Node.func = async function (node, msg, RED, context, flow, global, env, util) {
       startDate.setHours(0, 0, 0, 0);
   
       if (startDate.getDay() === 1) {     // Hvis dags dato er mandag
-          startDate.setDate(startDate.getDate() - 3);
+          startDate.setDate(startDate.getDate() - 4);
       } else {
           startDate.setDate(startDate.getDate() - 2);
       }

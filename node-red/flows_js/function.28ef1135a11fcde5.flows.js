@@ -11,7 +11,7 @@ const Node = {
   "finalize": "",
   "libs": [],
   "x": 160,
-  "y": 200,
+  "y": 180,
   "wires": [
     [
       "b73eae993793d2e5"
@@ -27,6 +27,8 @@ Node.func = async function (node, msg, RED, context, flow, global, env, util) {
   
   let transactions = flow.get("transactions");
   transactions = Array.isArray(transactions) ? transactions.filter(transaction => transaction.type !== "Transfer") : [];
+  
+  
   
   // Scope: Check all konteringsregler, rule by rule
   for (let regel of global.get("konteringsregler")) {
@@ -49,7 +51,7 @@ Node.func = async function (node, msg, RED, context, flow, global, env, util) {
       }
   
       // Convert totalAmount to a formatted string
-      totalAmount = parseFloat(totalAmount.toString().replace('.', ','));
+      totalAmount = totalAmount.toLocaleString('da-DK');
   
       // Check if totalAmount is greater than 0 before processing
       if (totalAmount > 0) {
@@ -78,7 +80,7 @@ Node.func = async function (node, msg, RED, context, flow, global, env, util) {
   
   flow.set("omposteringsarray", omposteringsbilag);
   
-  flow.set("filename", "/data/output/" + global.get("dateOfOrigin") + "_page" + flow.get("pagenumber") + ".csv")
+  flow.set("filename", "/data/output/" + global.get("dateOfOrigin") + ".csv")
   
   return msg;
 }

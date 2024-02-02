@@ -16,7 +16,7 @@ const Node = {
       "t": "set",
       "p": "url",
       "pt": "msg",
-      "to": "\"https://api.mobilepay.dk/v3/reporting/transactions?pagesize=1000&startdate=\"&$globalContext(\"startdate\")&\"&enddate=\"&$globalContext(\"enddate\")&\"&pagenumber=\"&$flowContext(\"pagenumber\")",
+      "to": "\"https://api.mobilepay.dk/v3/reporting/transactions?pagesize=600&startdate=\"&$globalContext(\"startdate\")&\"&enddate=\"&$globalContext(\"enddate\")&\"&pagenumber=\"&$flowContext(\"pagenumber\")",
       "tot": "jsonata"
     },
     {

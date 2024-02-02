@@ -11,6 +11,13 @@ const Node = {
       "pt": "flow",
       "to": "1",
       "tot": "num"
+    },
+    {
+      "t": "set",
+      "p": "transactions",
+      "pt": "flow",
+      "to": "{}",
+      "tot": "json"
     }
   ],
   "action": "",

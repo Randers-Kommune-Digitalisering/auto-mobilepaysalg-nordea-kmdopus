@@ -7,7 +7,7 @@ const Node = {
   "rules": [
     {
       "t": "set",
-      "p": "transactions",
+      "p": "addTransactions",
       "pt": "flow",
       "to": "payload.transactions",
       "tot": "msg"
@@ -29,8 +29,7 @@ const Node = {
   "y": 100,
   "wires": [
     [
-      "f39870190694e62a",
-      "08a49e9b043bea11"
+      "6261758110d8d635"
     ]
   ],
   "_order": 134
