@@ -2,13 +2,14 @@ const Node = {
   "id": "69901b9b298200fb",
   "type": "catch",
   "z": "5a8afc5afb89916f",
+  "d": true,
   "g": "82f4a4e9d27b9b29",
   "name": "",
   "scope": [
     "28ef1135a11fcde5"
   ],
   "uncaught": false,
-  "x": 1005,
+  "x": 1565,
   "y": 120,
   "wires": [
     [

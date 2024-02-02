@@ -10,7 +10,7 @@ const Node = {
       "p": "payload",
       "pt": "msg",
       "to": "omposteringsarray",
-      "tot": "global"
+      "tot": "flow"
     },
     {
       "t": "set",
@@ -25,8 +25,8 @@ const Node = {
   "from": "",
   "to": "",
   "reg": false,
-  "x": 430,
-  "y": 120,
+  "x": 310,
+  "y": 200,
   "wires": [
     [
       "e19e623080066c4c"

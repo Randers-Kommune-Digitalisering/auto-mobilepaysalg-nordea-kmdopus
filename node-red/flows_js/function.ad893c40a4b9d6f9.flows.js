@@ -44,15 +44,15 @@ Node.func = async function (node, msg, RED, context, flow, global, env, util, cs
       } = cleanedData;
   
       return [
-          { name: "Navn", value: name },
-          { name: "MyShop-nummer", value: myShopNumber},
-          { name: "PoS-nummer", value: brandId },
+          { name: "name", value: name },
+          { name: "myShopNumber", value: myShopNumber},
+          { name: "brandId", value: brandId },
           { Posteringstekst, Artskonto, PSP },
           { ruleId: index }
       ];
   });
   
-  const rules = jsonData != null ? jsonData.map((rule, index) => ({ ...rule, 7: { ruleId: index } })) : [];
+  const rules = jsonData || [];
   
   msg.payload = rules;
   global.set("konteringsregler", rules);

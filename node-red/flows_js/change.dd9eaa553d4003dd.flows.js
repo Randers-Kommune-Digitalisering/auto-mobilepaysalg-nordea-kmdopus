@@ -3,8 +3,22 @@ const Node = {
   "type": "change",
   "z": "5a8afc5afb89916f",
   "g": "e8ac061ee2e34438",
-  "name": "set msg.headers",
+  "name": "set msg",
   "rules": [
+    {
+      "t": "set",
+      "p": "pagenumberForUrl",
+      "pt": "flow",
+      "to": "\"&pagenumber=\"&$flowContext(\"pagenumber\")",
+      "tot": "jsonata"
+    },
+    {
+      "t": "set",
+      "p": "url",
+      "pt": "msg",
+      "to": "\"https://api.mobilepay.dk/v3/reporting/transactions?pagesize=1000&startdate=\"&$globalContext(\"startdate\")&\"&enddate=\"&$globalContext(\"enddate\")&\"&pagenumber=\"&$flowContext(\"pagenumber\")",
+      "tot": "jsonata"
+    },
     {
       "t": "set",
       "p": "headers.Authorization",
@@ -18,13 +32,6 @@ const Node = {
       "pt": "msg",
       "to": "application/json",
       "tot": "str"
-    },
-    {
-      "t": "set",
-      "p": "url",
-      "pt": "msg",
-      "to": "\"https://api.mobilepay.dk/v3/reporting/transactions?pagesize=1000&startdate=\"&$globalContext(\"startdate\")&\"&enddate=\"&$globalContext(\"enddate\")\t",
-      "tot": "jsonata"
     }
   ],
   "action": "",
@@ -32,8 +39,8 @@ const Node = {
   "from": "",
   "to": "",
   "reg": false,
-  "x": 450,
-  "y": 60,
+  "x": 560,
+  "y": 100,
   "wires": [
     [
       "647a8e3f4b2e4f18"

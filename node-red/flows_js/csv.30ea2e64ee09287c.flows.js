@@ -12,8 +12,8 @@ const Node = {
   "temp": "",
   "skip": "0",
   "strings": true,
-  "include_empty_strings": false,
-  "include_null_values": true,
+  "include_empty_strings": true,
+  "include_null_values": false,
   "x": 110,
   "y": 140,
   "wires": [
