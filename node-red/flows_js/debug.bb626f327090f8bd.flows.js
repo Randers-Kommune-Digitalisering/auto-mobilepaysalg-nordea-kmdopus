@@ -1,21 +1,22 @@
 const Node = {
   "id": "bb626f327090f8bd",
   "type": "debug",
-  "z": "0b526691b09a2646",
+  "z": "5a8afc5afb89916f",
   "g": "608c296403fab569",
-  "name": "stdout Hovedkonto Bilag",
+  "name": "stdout Hovedk. bilag",
   "active": true,
   "tosidebar": true,
   "console": true,
   "tostatus": false,
-  "complete": "\"Bilag til hovedkonto oprettet\"",
+  "complete": "\"Ompolsteringsbilag oprettet\"",
   "targetType": "jsonata",
   "statusVal": "",
   "statusType": "auto",
-  "x": 1120,
-  "y": 720,
+  "x": 1015,
+  "y": 180,
   "wires": [],
-  "_order": 32
+  "l": false,
+  "_order": 138
 }
 
 module.exports = Node;

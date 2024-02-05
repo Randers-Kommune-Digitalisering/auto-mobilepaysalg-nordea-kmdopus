@@ -9,14 +9,14 @@ const Node = {
   "format": "html",
   "syntax": "mustache",
   "template": "",
-  "x": 970,
+  "x": 620,
   "y": 140,
   "wires": [
     [
       "dda8e81914a372dc"
     ]
   ],
-  "_order": 142
+  "_order": 116
 }
 
 Node.template = `
@@ -40,6 +40,7 @@ Node.template = `
       <ul class="nav">
         <li><a href="/info">Inaktive regler</a></li>
         <li><a href="/rules">Aktive regler</a></li>
+        <li><a href="/exceptions">Undtagelser</a></li>
       </ul class="nav">
       <main class="ruleWrapper ruleWrapper"></main>
       <footer>

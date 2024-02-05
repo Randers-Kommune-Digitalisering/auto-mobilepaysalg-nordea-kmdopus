@@ -1,24 +1,23 @@
 const Node = {
   "id": "b73eae993793d2e5",
   "type": "change",
-  "z": "0b526691b09a2646",
+  "z": "5a8afc5afb89916f",
   "g": "608c296403fab569",
-  "name": "Flow to msg",
+  "name": "flow to msg",
   "rules": [
     {
       "t": "set",
       "p": "payload",
       "pt": "msg",
       "to": "omposteringsarray",
-      "tot": "global"
+      "tot": "flow"
     },
     {
       "t": "set",
       "p": "columns",
       "pt": "msg",
       "to": "omp_headers",
-      "tot": "global",
-      "dc": true
+      "tot": "global"
     }
   ],
   "action": "",
@@ -26,14 +25,15 @@ const Node = {
   "from": "",
   "to": "",
   "reg": false,
-  "x": 610,
-  "y": 720,
+  "x": 310,
+  "y": 180,
   "wires": [
     [
-      "e19e623080066c4c"
+      "e19e623080066c4c",
+      "30e3f4fcbebac0b8"
     ]
   ],
-  "_order": 33
+  "_order": 139
 }
 
 module.exports = Node;

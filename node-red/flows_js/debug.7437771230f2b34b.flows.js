@@ -1,9 +1,9 @@
 const Node = {
   "id": "7437771230f2b34b",
   "type": "debug",
-  "z": "0b526691b09a2646",
-  "g": "d37689bd68a8104a",
-  "name": "Fejl i pre-request script",
+  "z": "5a8afc5afb89916f",
+  "g": "82f4a4e9d27b9b29",
+  "name": "Fejl i request",
   "active": true,
   "tosidebar": true,
   "console": true,
@@ -12,10 +12,10 @@ const Node = {
   "targetType": "full",
   "statusVal": "",
   "statusType": "auto",
-  "x": 330,
-  "y": 800,
+  "x": 1270,
+  "y": 60,
   "wires": [],
-  "_order": 65
+  "_order": 128
 }
 
 module.exports = Node;

@@ -1,7 +1,7 @@
 const Node = {
   "id": "d67d447a2a6a1b5a",
   "type": "file",
-  "z": "0b526691b09a2646",
+  "z": "5a8afc5afb89916f",
   "g": "608c296403fab569",
   "name": "Skriv omp.bilag",
   "filename": "$flowContext(\"filename\")\t",
@@ -11,13 +11,13 @@ const Node = {
   "overwriteFile": "true",
   "encoding": "none",
   "x": 900,
-  "y": 720,
+  "y": 180,
   "wires": [
     [
       "bb626f327090f8bd"
     ]
   ],
-  "_order": 31
+  "_order": 137
 }
 
 module.exports = Node;
