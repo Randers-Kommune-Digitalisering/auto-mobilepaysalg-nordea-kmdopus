@@ -1,19 +1,18 @@
 const Node = {
   "id": "196ab7e8ba591eb1",
   "type": "watch",
-  "z": "9b998b2e60b3c784",
+  "z": "5a8afc5afb89916f",
   "g": "248b6faf1bd25dc8",
-  "name": "Ved ændring",
+  "name": "on change",
   "files": "/data/konteringsregler/konteringsregler.csv",
   "recursive": "",
-  "x": 110,
-  "y": 60,
+  "x": 100,
+  "y": 320,
   "wires": [
     [
       "27bcdd1c5f9fbd70"
     ]
-  ],
-  "_order": 124
+  ]
 }
 
 module.exports = Node;

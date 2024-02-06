@@ -1,20 +1,20 @@
 const Node = {
-  "id": "c9f1808ba669184f",
+  "id": "da98c9530dd08e5d",
   "type": "debug",
-  "z": "e9a2ad4ac092842f",
-  "name": "log",
+  "z": "5a8afc5afb89916f",
+  "g": "82f4a4e9d27b9b29",
+  "name": "Fejl i logging",
   "active": true,
   "tosidebar": true,
-  "console": true,
+  "console": false,
   "tostatus": false,
   "complete": "payload",
   "targetType": "msg",
   "statusVal": "",
   "statusType": "auto",
-  "x": 1290,
-  "y": 620,
-  "wires": [],
-  "_order": 153
+  "x": 1250,
+  "y": 240,
+  "wires": []
 }
 
 module.exports = Node;

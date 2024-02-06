@@ -8,10 +8,9 @@ const Node = {
   "links": [
     "d9d05c409012a745"
   ],
-  "x": 1015,
-  "y": 100,
-  "wires": [],
-  "_order": 144
+  "x": 995,
+  "y": 80,
+  "wires": []
 }
 
 module.exports = Node;

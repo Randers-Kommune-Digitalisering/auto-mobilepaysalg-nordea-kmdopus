@@ -3,20 +3,19 @@ const Node = {
   "type": "debug",
   "z": "5a8afc5afb89916f",
   "g": "e8ac061ee2e34438",
-  "name": "debug 3",
+  "name": "Request complete",
   "active": true,
-  "tosidebar": false,
+  "tosidebar": true,
   "console": true,
   "tostatus": false,
-  "complete": "\"Request complete\"",
-  "targetType": "jsonata",
+  "complete": "true",
+  "targetType": "full",
   "statusVal": "",
   "statusType": "auto",
-  "x": 1015,
+  "x": 995,
   "y": 60,
   "wires": [],
-  "l": false,
-  "_order": 133
+  "l": false
 }
 
 module.exports = Node;

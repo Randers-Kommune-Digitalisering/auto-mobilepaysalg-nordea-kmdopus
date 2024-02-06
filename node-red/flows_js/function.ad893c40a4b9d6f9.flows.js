@@ -1,7 +1,7 @@
 const Node = {
   "id": "ad893c40a4b9d6f9",
   "type": "function",
-  "z": "9b998b2e60b3c784",
+  "z": "5a8afc5afb89916f",
   "g": "248b6faf1bd25dc8",
   "name": "restructure data",
   "func": "",
@@ -15,14 +15,13 @@ const Node = {
       "module": "csv-parser"
     }
   ],
-  "x": 260,
-  "y": 140,
+  "x": 480,
+  "y": 340,
   "wires": [
     [
       "66b81c6ebf307b20"
     ]
-  ],
-  "_order": 120
+  ]
 }
 
 Node.func = async function (node, msg, RED, context, flow, global, env, util, csv) {

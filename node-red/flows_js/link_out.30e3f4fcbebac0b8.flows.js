@@ -2,7 +2,7 @@ const Node = {
   "id": "30e3f4fcbebac0b8",
   "type": "link out",
   "z": "5a8afc5afb89916f",
-  "g": "608c296403fab569",
+  "g": "753599c316bff70b",
   "name": "link out 27",
   "mode": "link",
   "links": [
@@ -10,8 +10,7 @@ const Node = {
   ],
   "x": 415,
   "y": 160,
-  "wires": [],
-  "_order": 149
+  "wires": []
 }
 
 module.exports = Node;
