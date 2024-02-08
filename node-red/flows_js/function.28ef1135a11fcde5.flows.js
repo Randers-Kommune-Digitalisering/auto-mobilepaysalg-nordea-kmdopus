@@ -2,8 +2,8 @@ const Node = {
   "id": "28ef1135a11fcde5",
   "type": "function",
   "z": "5a8afc5afb89916f",
-  "g": "608c296403fab569",
-  "name": "Matching",
+  "g": "753599c316bff70b",
+  "name": "matching",
   "func": "",
   "outputs": 1,
   "noerr": 0,
@@ -16,8 +16,7 @@ const Node = {
     [
       "b73eae993793d2e5"
     ]
-  ],
-  "_order": 140
+  ]
 }
 
 Node.func = async function (node, msg, RED, context, flow, global, env, util) {

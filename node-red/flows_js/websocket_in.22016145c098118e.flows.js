@@ -3,7 +3,7 @@ const Node = {
   "type": "websocket in",
   "z": "3ba6bac1c411ace6",
   "g": "8d5c48f3ea7b5469",
-  "name": "Listen on rules",
+  "name": "Listen on agreements",
   "server": "f95de6469a0fcfc4",
   "client": "",
   "x": 65,
@@ -13,8 +13,7 @@ const Node = {
       "36410fa515ba936d"
     ]
   ],
-  "l": false,
-  "_order": 100
+  "l": false
 }
 
 module.exports = Node;

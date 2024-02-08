@@ -4,8 +4,7 @@ const Node = {
   "label": "Main",
   "disabled": false,
   "info": "",
-  "env": [],
-  "_order": 2
+  "env": []
 }
 
 module.exports = Node;

@@ -8,14 +8,13 @@ const Node = {
   "tosidebar": true,
   "console": true,
   "tostatus": false,
-  "complete": "\"Fejl i matching-script\"",
-  "targetType": "jsonata",
+  "complete": "true",
+  "targetType": "full",
   "statusVal": "",
   "statusType": "auto",
-  "x": 1260,
-  "y": 120,
-  "wires": [],
-  "_order": 142
+  "x": 1230,
+  "y": 180,
+  "wires": []
 }
 
 module.exports = Node;

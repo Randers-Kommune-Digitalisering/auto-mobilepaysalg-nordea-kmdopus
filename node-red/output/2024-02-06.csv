@@ -1,0 +1,36 @@
+Artskonto;Omkostningssted;PSP-element;Profitcenter;Ordre;Debet/kredit;Beløb;Næste agent;Tekst;Betalingsart;Påligningsår;Betalingsmodtagernr.;Betalingsmodtagernr.kode;Ydelsesmodtagernr.;Ydelsesmodtagernr.kode;Ydelsesperiode fra;Ydelsesperiode til;Oplysningspligtnr.;Oplysningspligtmodtagernr.kode;Oplysningspligtkode;Netværk;Operation;Mængde;Mængdeenhed;Referencenøgle
+72000000;;XG-0000002668-00016;;;Kredit;25;;MP Klub Hornbæk;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;25;;MP Klub Hornbæk;;;;;;;;;;;;;;;;
+79000000;;XG-0000002667-00008;;;Kredit;9.550;;MP Randers Ungdomsskole - undervisning;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;9.550;;MP Randers Ungdomsskole - undervisning;;;;;;;;;;;;;;;;
+72000000;;XG-0000002568-00049;;;Kredit;1.575;;MP Østervangsskolen;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;1.575;;MP Østervangsskolen;;;;;;;;;;;;;;;;
+72000000;;XG-0000002465-00047;;;Kredit;420;;MP Korshøjskolen;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;420;;MP Korshøjskolen;;;;;;;;;;;;;;;;
+79000000;;XG-0000003038-00034;;;Kredit;55;;MP Boligerne Lene Bredahls Gade;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;55;;MP Boligerne Lene Bredahls Gade;;;;;;;;;;;;;;;;
+72000000;;XG-0000002890-00056;;;Kredit;40;;MP Trekløverskolen Borup byvej salatordning;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;40;;MP Trekløverskolen Borup byvej salatordning;;;;;;;;;;;;;;;;
+72000000;;XG-0000004526-00051;;;Kredit;5;;MP Caféen Orangeriet Huset Nyvang;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;5;;MP Caféen Orangeriet Huset Nyvang;;;;;;;;;;;;;;;;
+79000000;;XG-0000002392-00042;;;Kredit;720;;MP Blicherskolen;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;720;;MP Blicherskolen;;;;;;;;;;;;;;;;
+79000000;;XG-0000002555-00002;;;Kredit;2.515;;MP Vestervangsskolen;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;2.515;;MP Vestervangsskolen;;;;;;;;;;;;;;;;
+95932400;;;;;Kredit;1.400;;MP CSV;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;1.400;;MP CSV;;;;;;;;;;;;;;;;
+72000000;;XG-0000004526-00036;;;Kredit;100;;MP Plejecenter Lindevænget;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;100;;MP Plejecenter Lindevænget;;;;;;;;;;;;;;;;
+72000000;;XG-0000004526-00038;;;Kredit;20;;MP Svaleparken ;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;20;;MP Svaleparken ;;;;;;;;;;;;;;;;
+79000000;;XG-0000002669-00008;;;Kredit;500;;MP Randers Ungdomsskole Afdeling Heltidsundervisning;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;500;;MP Randers Ungdomsskole Afdeling Heltidsundervisning;;;;;;;;;;;;;;;;
+72000000;;XG-0000004526-00038;;;Kredit;50;;MP Område Syd Svaleparken;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;50;;MP Område Syd Svaleparken;;;;;;;;;;;;;;;;
+72000000;;XG-0000004526-00044;;;Kredit;190;;MP Område Vest Kollektivhuset;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;190;;MP Område Vest Kollektivhuset;;;;;;;;;;;;;;;;
+72000000;;XG-0000004526-00033;;;Kredit;92;;MP Område Nord Møllevang;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;92;;MP Område Nord Møllevang;;;;;;;;;;;;;;;;
+79000000;;XG-0000005094-00001;;;Kredit;140;;MPRanders Fjords Færgefart;;;;;;;;;;;;;;;;
+90510000;;;;;Debet;140;;MPRanders Fjords Færgefart;;;;;;;;;;;;;;;;
+

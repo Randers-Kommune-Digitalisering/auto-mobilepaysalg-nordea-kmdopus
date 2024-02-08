@@ -3,21 +3,20 @@ const Node = {
   "type": "function",
   "z": "5a8afc5afb89916f",
   "g": "e8ac061ee2e34438",
-  "name": "Sidste bankdag",
+  "name": "set dates",
   "func": "",
   "outputs": 1,
   "noerr": 0,
   "initialize": "",
   "finalize": "",
   "libs": [],
-  "x": 270,
+  "x": 240,
   "y": 60,
   "wires": [
     [
       "bf20a6756431d283"
     ]
-  ],
-  "_order": 132
+  ]
 }
 
 Node.func = async function (node, msg, RED, context, flow, global, env, util) {
