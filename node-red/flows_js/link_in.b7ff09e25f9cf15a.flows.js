@@ -3,7 +3,7 @@ const Node = {
   "type": "link in",
   "z": "5a8afc5afb89916f",
   "g": "e8ac061ee2e34438",
-  "name": "link in 23",
+  "name": "link in check multiple pages",
   "links": [
     "30e3f4fcbebac0b8"
   ],

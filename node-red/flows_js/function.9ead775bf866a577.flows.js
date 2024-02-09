@@ -9,7 +9,12 @@ const Node = {
   "noerr": 0,
   "initialize": "",
   "finalize": "",
-  "libs": [],
+  "libs": [
+    {
+      "var": "dayjs",
+      "module": "dayjs"
+    }
+  ],
   "x": 240,
   "y": 60,
   "wires": [
@@ -19,43 +24,30 @@ const Node = {
   ]
 }
 
-Node.func = async function (node, msg, RED, context, flow, global, env, util) {
-  function formatToISOWithZeroMilliseconds(date) {
-      const isoString = date.toISOString();
-      return isoString.substring(0, isoString.length - 5) + "Z";
-  }
-  
-  function formatDateToYYYYMMDD(date) {
-      const year = date.getFullYear();
-      const month = String(date.getMonth() + 1).padStart(2, "0");
-      const day = String(date.getDate()).padStart(2, "0");
-      return `${year}-${month}-${day}`;
-  }
-  
+Node.func = async function (node, msg, RED, context, flow, global, env, util, dayjs) {
+  // Function to find start or end date
   function findDate(arg) {
-      let startDate = new Date();
-      let endDate = new Date();
-      startDate.setHours(0, 0, 0, 0);
+      let startDate = dayjs().startOf('day');
+      let endDate = dayjs().endOf('day').subtract(2, 'day');
   
-      if (startDate.getDay() === 1) {     // Hvis dags dato er mandag
-          startDate.setDate(startDate.getDate() - 4);
+      if (startDate.day() === 1) { // If today is Monday
+          startDate = startDate.subtract(4, 'day');
       } else {
-          startDate.setDate(startDate.getDate() - 2);
+          startDate = startDate.subtract(2, 'day');
       }
-      
-      endDate.setDate(endDate.getDate() - 2);
-      endDate.setHours(23, 59, 59, 0);
   
       if (arg === "start") {
-          return formatToISOWithZeroMilliseconds(startDate);
+          return startDate.toISOString();
       } else if (arg === "end") {
-          return formatToISOWithZeroMilliseconds(endDate);
+          return endDate.toISOString();
       }
   }
   
+  // Set global variables
   global.set("startdate", findDate("start"));
   global.set("enddate", findDate("end"));
-  global.set("dateOfOrigin", formatDateToYYYYMMDD(new Date()));
+  global.set("dateOfOrigin", dayjs().format('YYYY-MM-DD'));
+  
   return msg;
   
 }
