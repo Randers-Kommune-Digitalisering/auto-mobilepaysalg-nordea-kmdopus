@@ -6,13 +6,14 @@ const Node = {
   "name": "on change",
   "files": "/data/konteringsregler/konteringsregler.csv",
   "recursive": "",
-  "x": 100,
+  "x": 55,
   "y": 320,
   "wires": [
     [
       "27bcdd1c5f9fbd70"
     ]
-  ]
+  ],
+  "l": false
 }
 
 module.exports = Node;

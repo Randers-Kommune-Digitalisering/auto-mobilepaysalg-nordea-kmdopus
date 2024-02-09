@@ -1,15 +1,15 @@
 const Node = {
-  "id": "30e3f4fcbebac0b8",
+  "id": "3a92c450f8a14f88",
   "type": "link out",
   "z": "5a8afc5afb89916f",
   "g": "753599c316bff70b",
-  "name": "link out check multiple pages",
+  "name": "link out csv not loaded",
   "mode": "link",
   "links": [
-    "b7ff09e25f9cf15a"
+    "e06c5b3145668043"
   ],
-  "x": 735,
-  "y": 160,
+  "x": 135,
+  "y": 180,
   "wires": []
 }
 

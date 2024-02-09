@@ -23,7 +23,7 @@ const Node = {
       "t": "set",
       "p": "headers.Authorization",
       "pt": "msg",
-      "to": "\"Bearer \"&$env(\"HOVEDNØGLE\")",
+      "to": "\"Bearer \"&$env(\"HOVEDKEY\")",
       "tot": "jsonata"
     },
     {
