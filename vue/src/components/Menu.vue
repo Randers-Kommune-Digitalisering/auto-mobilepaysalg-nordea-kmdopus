@@ -14,8 +14,8 @@
             "alert": "12"
         },
         {
-            "title": "Vue Info",
-            "url": "/vue"
+            "title": "Konteringsregler",
+            "url": "/konteringsregler"
         }
     ])
 
