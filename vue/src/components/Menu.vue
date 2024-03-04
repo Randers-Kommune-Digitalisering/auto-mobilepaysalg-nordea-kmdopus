@@ -9,13 +9,12 @@
             "url": "/"
         },
         {
-            "title": "UI Templates",
-            "url": "/templates",
-            "alert": "12"
-        },
-        {
             "title": "Konteringsregler",
             "url": "/konteringsregler"
+        },
+        {
+            "title": "Filer",
+            "url": "/filer"
         }
     ])
 
