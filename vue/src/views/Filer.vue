@@ -10,6 +10,11 @@
         "filnavn": {
             "key": "name"
         },
+        "tidsstempel":
+        {
+            "obj": "stat",
+            "key": "created"
+        },
         "størrelse":
         {
             "obj": "stat",
