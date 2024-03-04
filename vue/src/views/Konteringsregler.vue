@@ -12,10 +12,10 @@
         //.then(value => console.log(value))
 
     const keyMap = {
-        /*"id": {
+        "id": {
             "id": 4,
             "key": "ruleId"
-        },*/
+        },
         "navn": {
             "id": 0,
             "key": "value"
@@ -86,7 +86,7 @@
             </thead>
             <tr v-for="obj in konteringsregler">
                 <td v-for="key in keyMap">{{ obj[key.id][key.key] }}</td>
-                <td><button @click="">Rediger</button></td>
+                <td><router-link :to="'/retkonteringsregel/' + obj[ keyMap.id.id ][ keyMap.id.key ]"><button @click="">Rediger</button></router-link></td>
             </tr>
         </table>
     </Content>

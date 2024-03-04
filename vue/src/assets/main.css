@@ -352,6 +352,9 @@ span.red
 button.red, input[type='submit'].red, .message.red
 { background-color: var(--color-red); }
 
+button.red:hover, input[type='submit'].red:hover
+{ background-color: var(--color-red-hover); }
+
 span.green
 { color: var(--color-green); }
 .card.green, .tag.green
@@ -383,11 +386,7 @@ button.randers, input[type='submit'].randers, .message.randers
 .message.red, .message.green, .message.blue, .message.orange, .message.randers
 { color: var(--color-white); }
 .message .close
-{ color: var(--color-text) }
-
-.red:hover {
-    background-color: var(--color-red-hover);
-}
+{ color: var(--color-text); }
 
 
 /* Dark mode */

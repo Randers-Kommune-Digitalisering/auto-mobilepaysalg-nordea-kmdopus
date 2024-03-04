@@ -1,17 +1,17 @@
 const Node = {
-  "id": "8be102c0ab480e72",
+  "id": "344dd68ffc8edf08",
   "type": "http in",
   "z": "VueExample",
   "name": "",
-  "url": "/konteringsregler/set/:ruleId",
+  "url": "/konteringsregler/del/:ruleId",
   "method": "post",
   "upload": false,
   "swaggerDoc": "",
   "x": 190,
-  "y": 540,
+  "y": 660,
   "wires": [
     [
-      "af8c341a9bb797a7"
+      "218598c58c5d0b1f"
     ]
   ]
 }

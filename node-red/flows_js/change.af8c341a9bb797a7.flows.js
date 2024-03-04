@@ -1,16 +1,15 @@
 const Node = {
-  "id": "26a90c9b226e84ed",
+  "id": "af8c341a9bb797a7",
   "type": "change",
   "z": "VueExample",
-  "name": "All rules",
+  "name": "",
   "rules": [
     {
       "t": "set",
-      "p": "payload",
+      "p": "ruleRequested",
       "pt": "msg",
-      "to": "konteringsregler",
-      "tot": "global",
-      "dc": true
+      "to": "req.params.ruleId ~> $number()",
+      "tot": "jsonata"
     }
   ],
   "action": "",
@@ -18,11 +17,11 @@ const Node = {
   "from": "",
   "to": "",
   "reg": false,
-  "x": 420,
-  "y": 320,
+  "x": 470,
+  "y": 540,
   "wires": [
     [
-      "38fba4a63c7168aa"
+      "8e20408b0191e0bc"
     ]
   ]
 }

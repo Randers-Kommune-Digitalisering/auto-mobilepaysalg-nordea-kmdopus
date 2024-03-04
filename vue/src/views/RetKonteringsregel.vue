@@ -1,12 +1,15 @@
 <script setup>
     import { ref } from 'vue'
-    import { useRoute } from 'vue-router'
+    import { useRouter, useRoute } from 'vue-router'
 
     import Content from '@/components/Content.vue'
     import IconTable from '@/components/icons/IconTable.vue'
 
     const konteringsregel = ref(null)
+    const isUpdating = ref(false)
+    const hasUpdated = ref(false)
 
+    const router = useRouter()
     const route = useRoute()
     console.log("param: " + route.params.id)
     
@@ -67,6 +70,56 @@
         }
     ]
     */
+    
+    function updateRule()
+    {
+        isUpdating.value = true
+        
+        fetch('/api/konteringsregler/set/' + route.params.id,
+        {
+            method: 'POST',
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(konteringsregel.value)
+        })
+
+            .then(hasUpdated.value = true)
+            .then(isUpdating.value = false)
+    }
+
+
+    const awaitingDeleteConfirmation = ref(false)
+    
+    function deleteRule()
+    {
+        if(!awaitingDeleteConfirmation.value)
+            awaitingDeleteConfirmation.value = true
+
+        else
+        {
+            fetch('/api/konteringsregler/del/' + route.params.id,
+            {
+                method: 'POST',
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(konteringsregel.value)
+            })
+            .then( 
+                router.push('/konteringsregler')
+            )
+        }
+        /*
+        
+        
+            .then(hasUpdated.value = true)
+            .then(isUpdating.value = false)*/
+    }
+
+
 </script>
 
 <template>
@@ -79,7 +132,7 @@
         </template>
         <template #heading>Redigér konteringsregel</template>
         
-        <form @submit.prevent="addDataSample">
+        <form @submit.prevent="">
             <fieldset>
                 <div class="flexbox">
                     <div v-for="key in Object.keys(keyMap)">
@@ -88,15 +141,15 @@
                     </div>
                 </div>
 
-                <button class="red">Slet regel</button>
-                <input type="submit" value="Gem rettelser" />
+                <button @click="deleteRule" class="red">{{ awaitingDeleteConfirmation ? 'Bekræft sletning' : 'Slet regel' }}</button>
+                <button id="submit" @click="updateRule" :disabled="isUpdating">{{ isUpdating ? 'Gemmer' : hasUpdated ? 'Rettelser gemt' : 'Gem rettelser' }}</button>
             </fieldset>
         </form>
     </Content>
 
 </template>
 <style scoped>
-input[type="submit"]
+#submit
 {
     margin-left: 1rem;
 }

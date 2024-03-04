@@ -1,11 +1,11 @@
 const Node = {
-  "id": "777b3439ce096219",
+  "id": "352d9c8e34c4c501",
   "type": "comment",
   "z": "VueExample",
-  "name": "Set konteringsregel",
+  "name": "Delete konteringsregel",
   "info": "",
-  "x": 150,
-  "y": 500,
+  "x": 160,
+  "y": 620,
   "wires": []
 }
 

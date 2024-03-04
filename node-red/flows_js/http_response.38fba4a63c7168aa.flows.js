@@ -3,9 +3,9 @@ const Node = {
   "type": "http response",
   "z": "VueExample",
   "name": "",
-  "statusCode": "",
+  "statusCode": "200",
   "headers": {},
-  "x": 690,
+  "x": 660,
   "y": 340,
   "wires": []
 }

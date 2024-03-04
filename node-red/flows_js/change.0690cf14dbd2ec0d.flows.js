@@ -2,7 +2,7 @@ const Node = {
   "id": "0690cf14dbd2ec0d",
   "type": "change",
   "z": "VueExample",
-  "name": "",
+  "name": "Find rule",
   "rules": [
     {
       "t": "set",
@@ -32,12 +32,11 @@ const Node = {
   "from": "",
   "to": "",
   "reg": false,
-  "x": 440,
+  "x": 420,
   "y": 360,
   "wires": [
     [
-      "38fba4a63c7168aa",
-      "11a6b09f7be3c9c2"
+      "38fba4a63c7168aa"
     ]
   ]
 }
