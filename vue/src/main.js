@@ -10,6 +10,7 @@ import App from './App.vue'
 import Start from '@/views/Start.vue'
 import Konteringsregler from '@/views/Konteringsregler.vue'
 import RetKonteringsregel from '@/views/RetKonteringsregel.vue'
+import Filer from '@/views/Filer.vue'
 import Templates from '@/views/Templates.vue'
 
 // Opsætning af URL routing
@@ -31,6 +32,11 @@ const router = createRouter({
             path: '/retkonteringsregel/:id', 
             name: "RetKonteringsregel",
             component: RetKonteringsregel
+        },
+        {
+            path: '/filer', 
+            name: "Filer",
+            component: Filer
         },
         {
             path: '/templates', 
