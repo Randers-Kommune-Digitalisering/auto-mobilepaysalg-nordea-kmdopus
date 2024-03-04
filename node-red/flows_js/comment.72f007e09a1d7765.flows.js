@@ -1,11 +1,11 @@
 const Node = {
-  "id": "b8d369e9feb42b4b",
+  "id": "72f007e09a1d7765",
   "type": "comment",
   "z": "VueExample",
-  "name": "Get output files",
+  "name": "Read / download logs",
   "info": "",
-  "x": 140,
-  "y": 820,
+  "x": 160,
+  "y": 1320,
   "wires": []
 }
 

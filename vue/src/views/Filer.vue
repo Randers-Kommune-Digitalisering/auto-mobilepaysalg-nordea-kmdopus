@@ -47,16 +47,38 @@
             <thead>
                 <tr>
                     <th v-for="key in Object.keys(keyMap)" class="capitalize">{{key}}</th>
-                    <th>Download</th>
+                    <th></th>
                 </tr>
             </thead>
             <tr v-for="obj in outputFiles">
-                <td v-for="key in keyMap">{{ key.obj !== null }}</td>
-                <td><router-link :to="'/'"><button @click="">Download</button></router-link></td>
+                <td v-for="key in keyMap">{{ key.obj != null ? obj[key.obj][key.key] : obj[key.key] }}</td>
+                <td><a :href="'/api/files/get/' + obj[keyMap.filnavn.key] + '/download'"><button @click="">Download</button></a></td>
+            </tr>
+        </table>
+    </Content>
+
+    <Content>
+        <template #icon>
+            <IconTable />
+        </template>
+        <template #heading>Logfiler</template>
+
+        <span class="paragraph">
+            Herunder kan logfiler fra seneste kørsler downloades
+        </span>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th v-for="key in Object.keys(keyMap)" class="capitalize">{{key}}</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tr v-for="obj in logFiles">
+                <td v-for="key in keyMap">{{ key.obj != null ? obj[key.obj][key.key] : obj[key.key] }}</td>
+                <td><a :href="'/api/logs/get/' + obj[keyMap.filnavn.key] + '/download'"><button @click="">Download</button></a></td>
             </tr>
         </table>
     </Content>
 
 </template>
-
-<!--  !== null ? obj[key.obj][key.key] : obj[key.key]  -->
