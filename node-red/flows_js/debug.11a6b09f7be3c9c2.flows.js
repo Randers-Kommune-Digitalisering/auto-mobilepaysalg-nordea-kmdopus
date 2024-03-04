@@ -1,5 +1,5 @@
 const Node = {
-  "id": "552cd8513538258e",
+  "id": "11a6b09f7be3c9c2",
   "type": "debug",
   "z": "VueExample",
   "name": "debug 1",
@@ -11,8 +11,8 @@ const Node = {
   "targetType": "msg",
   "statusVal": "",
   "statusType": "auto",
-  "x": 380,
-  "y": 420,
+  "x": 660,
+  "y": 400,
   "wires": []
 }
 

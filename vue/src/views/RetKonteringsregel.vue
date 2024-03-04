@@ -1,21 +1,27 @@
 <script setup>
     import { ref } from 'vue'
+    import { useRoute } from 'vue-router'
+
     import Content from '@/components/Content.vue'
     import IconTable from '@/components/icons/IconTable.vue'
 
-    const konteringsregler = ref(null)
+    const konteringsregel = ref(null)
+
+    const route = useRoute()
+    console.log("param: " + route.params.id)
     
     // Fetch regler
-    fetch('/api/konteringsregler/get')
+    fetch('/api/konteringsregler/get/' + route.params.id)
         .then(response => response = response.json())
-        .then(value => konteringsregler.value = value)
-        //.then(value => console.log(value))
+        .then(value => konteringsregel.value = value)
+        .then(value => console.log(value))
 
     const keyMap = {
-        /*"id": {
+        "id": {
             "id": 4,
-            "key": "ruleId"
-        },*/
+            "key": "ruleId",
+            "disabled": true
+        },
         "navn": {
             "id": 0,
             "key": "value"
@@ -27,7 +33,7 @@
         "posteringstekst": {
             "id": 3,
             "key": "Posteringstekst"
-        }/*,
+        },
         "artskonto": {
             "id": 3,
             "key": "Artskonto"
@@ -35,7 +41,7 @@
         "PSP": {
             "id": 3,
             "key": "PSP"
-        }*/
+        }
     }
 
     /* Example data format
@@ -65,30 +71,33 @@
 
 <template>
 
-    <h2>Konteringsregler</h2>
+    <h2>Konteringsregel #{{konteringsregel[ keyMap.id.id ][ keyMap.id.key ]}}</h2>
     
     <Content>
         <template #icon>
             <IconTable />
         </template>
-        <template #heading>Aktuelle konteringsregler</template>
-
-        <span class="paragraph">
-            Herunder kan de aktuelle konteringsregler ses, rettes og slettes. Vær opmærksom på at rettelser overskrives hvis der laves ændringer i <code>konteringsregler.csv</code>.
-        </span>
+        <template #heading>Redigér konteringsregel</template>
         
-        <table>
-            <thead>
-                <tr>
-                    <th v-for="key in Object.keys(keyMap)" class="capitalize">{{key}}</th>
-                    <th></th>
-                </tr>
-            </thead>
-            <tr v-for="obj in konteringsregler">
-                <td v-for="key in keyMap">{{ obj[key.id][key.key] }}</td>
-                <td><button @click="">Rediger</button></td>
-            </tr>
-        </table>
+        <form @submit.prevent="addDataSample">
+            <fieldset>
+                <div class="flexbox">
+                    <div v-for="key in Object.keys(keyMap)">
+                        <label :for="key" class="capitalize">{{key}}</label>
+                        <input type="text" placeholder="..." :id="key" v-model="konteringsregel[ keyMap[key].id ][ keyMap[key].key ]" :disabled="keyMap[key].disabled" required>
+                    </div>
+                </div>
+
+                <button class="red">Slet regel</button>
+                <input type="submit" value="Gem rettelser" />
+            </fieldset>
+        </form>
     </Content>
 
 </template>
+<style scoped>
+input[type="submit"]
+{
+    margin-left: 1rem;
+}
+</style>
