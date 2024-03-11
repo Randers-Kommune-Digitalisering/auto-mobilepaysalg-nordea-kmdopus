@@ -42,10 +42,10 @@
         <template #icon>
             <IconTable />
         </template>
-        <template #heading>Outputfiler</template>
+        <template #heading>Omposteringsbilag</template>
 
         <span class="paragraph">
-            Herunder kan outputfiler fra seneste kørsler downloades
+            Bogføringsdatoen fremgår af filnavnet
         </span>
         
         <table>
@@ -69,7 +69,7 @@
         <template #heading>Logfiler</template>
 
         <span class="paragraph">
-            Herunder kan logfiler fra seneste kørsler downloades
+            Bruges til fejlsøgning
         </span>
         
         <table>
