@@ -19,6 +19,7 @@
 
     --color-green: rgb(35, 176, 106);
     --color-red: rgb(179, 38, 38);
+    --color-red-hover: rgb(187, 73, 73);
     --color-blue: rgb(27, 153, 207);
     --color-orange: rgb(208, 140, 21);
     --color-white: rgb(248, 248, 248);
@@ -94,6 +95,11 @@ button, input[type='submit']
 {
     border: 0rem;
 }
+
+    button:disabled, input[type='submit']:disabled
+    {
+        background-color: var(--color-text)!important;
+    }
 
 input, input[type='text']
 {
@@ -346,6 +352,9 @@ span.red
 button.red, input[type='submit'].red, .message.red
 { background-color: var(--color-red); }
 
+button.red:hover, input[type='submit'].red:hover
+{ background-color: var(--color-red-hover); }
+
 span.green
 { color: var(--color-green); }
 .card.green, .tag.green
@@ -377,7 +386,7 @@ button.randers, input[type='submit'].randers, .message.randers
 .message.red, .message.green, .message.blue, .message.orange, .message.randers
 { color: var(--color-white); }
 .message .close
-{ color: var(--color-text) }
+{ color: var(--color-text); }
 
 
 /* Dark mode */

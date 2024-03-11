@@ -1,24 +1,24 @@
 const Node = {
-  "id": "91ee0364118b77c6",
+  "id": "628c456dd82a8845",
   "type": "group",
   "z": "5a8afc5afb89916f",
-  "name": "Create log",
+  "name": "Read rules JSON",
   "style": {
     "stroke": "none",
-    "fill": "#bfdbef",
+    "fill": "#e3f3d3",
     "label": true,
     "label-position": "n",
     "color": "#000000"
   },
   "nodes": [
-    "c90f4b4b5c61a378",
-    "042fc0ad5d5c9205",
-    "4ef1a513f7979ac3",
-    "9be26f64e1492f12",
-    "71aad7fb08920426"
+    "90bc177997bcae2d",
+    "250bfeb8dd55e21f",
+    "f97219a2f2bffbba",
+    "d813e57a2bea88fa",
+    "68e701b2f2cd5db7"
   ],
   "x": 14,
-  "y": 199
+  "y": 379
 }
 
 module.exports = Node;
