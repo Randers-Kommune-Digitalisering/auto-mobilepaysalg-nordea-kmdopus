@@ -1,33 +1,33 @@
 <script setup>
-    import { ref } from 'vue'
-    import Content from '@/components/Content.vue'
-    import IconTable from '@/components/icons/IconTable.vue'
+import { ref } from 'vue'
+import Content from '@/components/Content.vue'
+import IconTable from '@/components/icons/IconTable.vue'
 
-    const konteringsregler = ref(null)
-    
-    // Fetch regler
-    fetch('/api/konteringsregler/get')
-        .then(response => response = response.json())
-        .then(value => konteringsregler.value = value)
-        //.then(value => console.log(value))
+const konteringsregler = ref(null)
 
-    const keyMap = {
-        "id": {
-            "id": 4,
-            "key": "ruleId"
-        },
-        "navn": {
-            "id": 0,
-            "key": "value"
-        },
-        "nummer": {
-            "id": 1,
-            "key": "value"
-        },
-        "posteringstekst": {
-            "id": 3,
-            "key": "Posteringstekst"
-        }/*,
+// Fetch regler
+fetch('/api/konteringsregler/get')
+    .then(response => response = response.json())
+    .then(value => konteringsregler.value = value)
+//.then(value => console.log(value))
+
+const keyMap = {
+    "id": {
+        "id": 4,
+        "key": "ruleId"
+    },
+    "navn": {
+        "id": 0,
+        "key": "value"
+    },
+    "nummer": {
+        "id": 1,
+        "key": "value"
+    },
+    "posteringstekst": {
+        "id": 3,
+        "key": "Posteringstekst"
+    }/*,
         "artskonto": {
             "id": 3,
             "key": "Artskonto"
@@ -36,31 +36,31 @@
             "id": 3,
             "key": "PSP"
         }*/
-    }
+}
 
-    /* Example data format
-    [
-        {
-            "name": "name",
-            "value": "Klub Øster Tørslev"
-        },
-        {
-            "name": "myShopNumber",
-            "value": "280120"
-        },
-        {
-            "name": "brandId"
-        },
-        {
-            "Posteringstekst": "MP Klub Øster Tørslev",
-            "Artskonto": "72000000",
-            "PSP": "XG-0000002668-00019"
-        },
-        {
-            "ruleId": 8
-        }
-    ]
-    */
+/* Example data format
+[
+    {
+        "name": "name",
+        "value": "Klub Øster Tørslev"
+    },
+    {
+        "name": "myShopNumber",
+        "value": "280120"
+    },
+    {
+        "name": "brandId"
+    },
+    {
+        "Posteringstekst": "MP Klub Øster Tørslev",
+        "Artskonto": "72000000",
+        "PSP": "XG-0000002668-00019"
+    },
+    {
+        "ruleId": 8
+    }
+]
+*/
 </script>
 
 <template>
@@ -81,7 +81,7 @@
         <table>
             <thead>
                 <tr>
-                    <th v-for="key in Object.keys(keyMap)" class="capitalize">{{key}}</th>
+                    <th v-for="(value, key) in keyMap" v-if="key !== 'id'" class="capitalize">{{ key }}</th>
                     <th></th>
                 </tr>
             </thead>
