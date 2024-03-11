@@ -66,7 +66,7 @@
 <template>
 
     <h2>Konteringsregler</h2>
-    
+
     <Content>
         <template #icon>
             <IconTable />
@@ -74,9 +74,10 @@
         <template #heading>Aktuelle konteringsregler</template>
 
         <span class="paragraph">
-            Herunder kan de aktuelle konteringsregler ses, rettes og slettes. Vær opmærksom på at rettelser overskrives hvis der laves ændringer i <code>konteringsregler.csv</code>.
+            Herunder kan de aktuelle konteringsregler ses, rettes og slettes. Vær opmærksom på at rettelser overskrives
+            hvis der laves ændringer i <code>konteringsregler.csv</code>.
         </span>
-        
+
         <table>
             <thead>
                 <tr>
@@ -85,8 +86,9 @@
                 </tr>
             </thead>
             <tr v-for="obj in konteringsregler">
-                <td v-for="key in keyMap">{{ obj[key.id][key.key] }}</td>
-                <td><router-link :to="'/retkonteringsregel/' + obj[ keyMap.id.id ][ keyMap.id.key ]"><button @click="">Rediger</button></router-link></td>
+                <td v-for="(value, key) in keyMap" v-if="key !== 'id'">{{ obj[value.id][value.key] }}</td>
+                <td><router-link :to="'/retkonteringsregel/' + obj[keyMap.id.id][keyMap.id.key]"><button
+                            @click="">Rediger</button></router-link></td>
             </tr>
         </table>
     </Content>
