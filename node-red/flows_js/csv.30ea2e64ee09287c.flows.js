@@ -14,7 +14,7 @@ const Node = {
   "strings": true,
   "include_empty_strings": true,
   "include_null_values": false,
-  "x": 285,
+  "x": 275,
   "y": 340,
   "wires": [
     [

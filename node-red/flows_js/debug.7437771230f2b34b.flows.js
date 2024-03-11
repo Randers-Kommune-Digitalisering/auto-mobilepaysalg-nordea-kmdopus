@@ -8,7 +8,7 @@ const Node = {
   "tosidebar": true,
   "console": true,
   "tostatus": false,
-  "complete": "{\t   \"Error\": error,\t   \"Explanation\": \"HTTP request failed\",\t   \"Timestamp\": $now()\t\t}",
+  "complete": "{\t   \"Error\": error,\t   \"Description\": \"HTTP request failed\",\t   \"Timestamp\": $now()\t\t}",
   "targetType": "jsonata",
   "statusVal": "",
   "statusType": "auto",

@@ -2,6 +2,7 @@ const Node = {
   "id": "101eef4f4038d708",
   "type": "change",
   "z": "VueExample",
+  "g": "b196cd19cebbc2c0",
   "name": "file path",
   "rules": [
     {
@@ -24,8 +25,8 @@ const Node = {
   "from": "",
   "to": "",
   "reg": false,
-  "x": 480,
-  "y": 1180,
+  "x": 620,
+  "y": 80,
   "wires": [
     [
       "8b299b32044d3469"

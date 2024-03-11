@@ -4,8 +4,8 @@ const Node = {
   "z": "VueExample",
   "name": "Demo endpoint for Vue",
   "info": "",
-  "x": 160,
-  "y": 80,
+  "x": 140,
+  "y": 700,
   "wires": []
 }
 

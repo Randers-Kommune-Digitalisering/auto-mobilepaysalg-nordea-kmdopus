@@ -2,6 +2,7 @@ const Node = {
   "id": "2150caccb4b6445d",
   "type": "function",
   "z": "VueExample",
+  "g": "d4af806691aedd75",
   "name": "Delete rule",
   "func": "",
   "outputs": 1,
@@ -9,8 +10,8 @@ const Node = {
   "initialize": "",
   "finalize": "",
   "libs": [],
-  "x": 670,
-  "y": 660,
+  "x": 230,
+  "y": 440,
   "wires": [
     [
       "a2f78898cc418a1f",

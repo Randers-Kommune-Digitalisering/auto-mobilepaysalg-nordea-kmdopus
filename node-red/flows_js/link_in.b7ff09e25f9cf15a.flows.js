@@ -5,7 +5,7 @@ const Node = {
   "g": "e8ac061ee2e34438",
   "name": "link in check multiple pages",
   "links": [
-    "30e3f4fcbebac0b8"
+    "f39870190694e62a"
   ],
   "x": 55,
   "y": 100,

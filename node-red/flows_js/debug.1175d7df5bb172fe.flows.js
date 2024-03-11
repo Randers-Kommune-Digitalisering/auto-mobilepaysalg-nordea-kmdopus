@@ -8,7 +8,7 @@ const Node = {
   "tosidebar": true,
   "console": true,
   "tostatus": false,
-  "complete": "{\t    \"Error\": error,\t    \"Explanation\": \"TypeError is likely due to missing or faulty import of rules from csv-file\",\t    \"Timestamp\": $now()\t}",
+  "complete": "{\t    \"Error\": error,\t    \"Description\": \"TypeError is likely due to missing or faulty import of rules from csv-file\",\t    \"Timestamp\": $now()\t}",
   "targetType": "jsonata",
   "statusVal": "",
   "statusType": "auto",

@@ -2,6 +2,7 @@ const Node = {
   "id": "e1970964296b3ae3",
   "type": "change",
   "z": "VueExample",
+  "g": "b196cd19cebbc2c0",
   "name": "",
   "rules": [
     {
@@ -17,8 +18,8 @@ const Node = {
   "from": "",
   "to": "",
   "reg": false,
-  "x": 335,
-  "y": 1220,
+  "x": 575,
+  "y": 120,
   "wires": [
     [
       "101eef4f4038d708"

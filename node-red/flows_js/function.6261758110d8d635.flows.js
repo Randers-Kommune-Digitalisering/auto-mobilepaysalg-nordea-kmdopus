@@ -32,6 +32,7 @@ Node.func = async function (node, msg, RED, context, flow, global, env, util) {
   
   // Update the flow variable with the modified array
   flow.set("transactions", transactions);
+  flow.set("addTransactions", {});
   
   return msg;
   

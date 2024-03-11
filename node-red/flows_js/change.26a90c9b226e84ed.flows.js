@@ -2,7 +2,8 @@ const Node = {
   "id": "26a90c9b226e84ed",
   "type": "change",
   "z": "VueExample",
-  "name": "All rules",
+  "g": "d36ccfbb63434c41",
+  "name": "Get rules",
   "rules": [
     {
       "t": "set",
@@ -18,8 +19,8 @@ const Node = {
   "from": "",
   "to": "",
   "reg": false,
-  "x": 420,
-  "y": 320,
+  "x": 180,
+  "y": 80,
   "wires": [
     [
       "38fba4a63c7168aa"
