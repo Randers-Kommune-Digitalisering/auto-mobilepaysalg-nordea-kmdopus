@@ -8,7 +8,9 @@ import App from './App.vue'
 // Import af views til routing
 
 import Start from '@/views/Start.vue'
-import Vue from '@/views/Vue.vue'
+import Konteringsregler from '@/views/Konteringsregler.vue'
+import RetKonteringsregel from '@/views/RetKonteringsregel.vue'
+import Filer from '@/views/Filer.vue'
 import Templates from '@/views/Templates.vue'
 
 // Opsætning af URL routing
@@ -22,9 +24,19 @@ const router = createRouter({
             component: Start
         },        
         {
-            path: '/vue', 
-            name: "Vue",
-            component: Vue
+            path: '/konteringsregler', 
+            name: "Konteringsregler",
+            component: Konteringsregler
+        },        
+        {
+            path: '/retkonteringsregel/:id', 
+            name: "RetKonteringsregel",
+            component: RetKonteringsregel
+        },
+        {
+            path: '/filer', 
+            name: "Filer",
+            component: Filer
         },
         {
             path: '/templates', 

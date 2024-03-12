@@ -7,22 +7,19 @@
 </script>
 
 <template>
-    <h2>Node-RED + Vue Template</h2>
+    <h2>Bogføring af MobilePay-salg</h2>
 
     <Content>
-        <template #icon>
-            <IconOK />
-        </template>
-        <template #heading>Sådan, det ser ud til at køre!</template>
-        
-        Du har nu succesfuldt startet et nyt projekt med <a href="https://github.com/Randers-Kommune-Digitalisering/node-red-vue-template" target="_blank" rel="noopener">Randers Kommune's Node-RED + Vue template</a>.
+        <template #heading>Introduktion til løsningen</template>
+        På siden her finder du en fane til vedligehold af aftaler mellem Randers Kommunes decentrale enheder og MobilePay (fanen "Konteringsregler") samt en side med de omposteringsbilag der skal indlæses i Opus (fanen "Filer").
+        Filerne downloades og indlæses direkte i Rollebaseret Indgang.
     </Content>
 
     <Content>
         <template #icon>
             <IconRSS />
         </template>
-        <template #heading>Status på opsætning</template>
+        <template #heading>Status på løsningen</template>
         
         <Status />
     </Content>
