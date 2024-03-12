@@ -1,1 +1,2609 @@
-[[{"name":"name","value":"Klub Fårup"},{"name":"myShopNumber","value":"155841"},{"name":"brandId"},{"Posteringstekst":"MP Klub Fårup","Artskonto":"72000000","PSP":"XG-0000002668-00014"},{"ruleId":0}],[{"name":"name","value":"Klub Hornbæk"},{"name":"myShopNumber","value":"227388"},{"name":"brandId"},{"Posteringstekst":"MP Klub Hornbæk","Artskonto":"72000000","PSP":"XG-0000002668-00016"},{"ruleId":1}],[{"name":"name","value":"Ungemiljø NORD"},{"name":"myShopNumber","value":"344205"},{"name":"brandId"},{"Posteringstekst":"MP Ungemiljø NORD","Artskonto":"72000000","PSP":"XG-0000002668-00021"},{"ruleId":2}],[{"name":"name","value":"Klub Langå"},{"name":"myShopNumber","value":"910387"},{"name":"brandId"},{"Posteringstekst":"MP Klub Langå","Artskonto":"72000000","PSP":"XG-0000002668-00017"},{"ruleId":3}],[{"name":"name","value":"Klub Harridslev"},{"name":"myShopNumber","value":"310450"},{"name":"brandId"},{"Posteringstekst":"MP Klub Harridslev","Artskonto":"72000000","PSP":"XG-0000002668-00015"},{"ruleId":4}],[{"name":"name","value":"Klub Assentoft"},{"name":"myShopNumber","value":"646778"},{"name":"brandId"},{"Posteringstekst":"MP Klub Assentoft","Artskonto":"72000000","PSP":"XG-0000002668-00012"},{"ruleId":5}],[{"name":"name","value":"Ungemiljø Syd"},{"name":"myShopNumber","value":"917050"},{"name":"brandId"},{"Posteringstekst":"MP Ungemiljø Syd","Artskonto":"72000000","PSP":"XG-0000002668-00022"},{"ruleId":6}],[{"name":"name","value":"Fantasifabrikken"},{"name":"myShopNumber","value":"778357"},{"name":"brandId"},{"Posteringstekst":"MP Fantasifabrikken","Artskonto":"72000000","PSP":"XG-0000002668-00011"},{"ruleId":7}],[{"name":"name","value":"Klub Øster Tørslev"},{"name":"myShopNumber","value":"280120"},{"name":"brandId"},{"Posteringstekst":"MP Klub Øster Tørslev","Artskonto":"72000000","PSP":"XG-0000002668-00019"},{"ruleId":8}],[{"name":"name","value":"Klub Spentrup"},{"name":"myShopNumber","value":"692988"},{"name":"brandId"},{"Posteringstekst":"MP Klub Spentrup","Artskonto":"72000000","PSP":"XG-0000002668-00018"},{"ruleId":9}],[{"name":"name","value":"Ungemiljø Midt/Kaosambassaden"},{"name":"myShopNumber","value":"654227"},{"name":"brandId"},{"Posteringstekst":"MP Ungemiljø Midt/Kaosambassaden","Artskonto":"72000000","PSP":"XG-0000002668-00020"},{"ruleId":10}],[{"name":"name","value":"Randers Ungdomsskole - undervisning"},{"name":"myShopNumber","value":"758343"},{"name":"brandId"},{"Posteringstekst":"MP Randers Ungdomsskole - undervisning","Artskonto":"79000000","PSP":"XG-0000002667-00008"},{"ruleId":11}],[{"name":"name","value":"Ungdomsklubben Bjerregrav"},{"name":"myShopNumber","value":"265828"},{"name":"brandId"},{"Posteringstekst":"MP Ungdomsklubben Bjerregrav","Artskonto":"72000000","PSP":"XG-0000002668-00013"},{"ruleId":12}],[{"name":"name","value":"Museum Østjylland"},{"name":"myShopNumber","value":"573604"},{"name":"brandId"},{"Posteringstekst":"MP Museum Østjylland","Artskonto":"95941300"},{"ruleId":13}],[{"name":"name","value":"Søndermarkskolen"},{"name":"myShopNumber","value":"694520"},{"name":"brandId"},{"Posteringstekst":"MP Søndermarkskolen","Artskonto":"72000000","PSP":"XG-0000002531-00016"},{"ruleId":14}],[{"name":"name","value":"Hobrovejens Skole"},{"name":"myShopNumber","value":"797898"},{"name":"brandId"},{"Posteringstekst":"MP Hobrovejens Skole","Artskonto":"72000000","PSP":"XG-0000002439-00024"},{"ruleId":15}],[{"name":"name","value":"Randers Kommune Fritidsaktiviteter (CHI)"},{"name":"myShopNumber","value":"430074"},{"name":"brandId"},{"Posteringstekst":"MP Randers Kommune Fritidsaktiviteter (CHI)","Artskonto":"79000000","PSP":"XG-0000003070-00001"},{"ruleId":16}],[{"name":"name","value":"Tirsdalens Skole"},{"name":"myShopNumber","value":"231633"},{"name":"brandId"},{"Posteringstekst":"MP Tirsdalens Skole","Artskonto":"72000000","PSP":"XG-0000002544-00025"},{"ruleId":17}],[{"name":"name","value":"Østervangsskolen"},{"name":"myShopNumber","value":"448873"},{"name":"brandId"},{"Posteringstekst":"MP Østervangsskolen","Artskonto":"72000000","PSP":"XG-0000002568-00049"},{"ruleId":18}],[{"name":"name","value":"Grønhøjskolen"},{"name":"myShopNumber","value":"977572"},{"name":"brandId"},{"Posteringstekst":"MP Grønhøjskolen","Artskonto":"72000000","PSP":"XG-0000002415-00039"},{"ruleId":19}],[{"name":"name","value":"Kristrup Skole"},{"name":"myShopNumber","value":"686410"},{"name":"brandId"},{"Posteringstekst":"MP Kristrup Skole","Artskonto":"72000000","PSP":"XG-0000002475-00016"},{"ruleId":20}],[{"name":"name","value":"Rismølleskolen"},{"name":"myShopNumber","value":"254904"},{"name":"brandId"},{"Posteringstekst":"MP Rismølleskolen","Artskonto":"72000000","PSP":"XG-0000002521-00031"},{"ruleId":21}],[{"name":"name","value":"Nørrevangsskolen"},{"name":"myShopNumber","value":"866110"},{"name":"brandId"},{"Posteringstekst":"MP Nørrevangsskolen","Artskonto":"72000000","PSP":"XG-0000002511-00021"},{"ruleId":22}],[{"name":"name","value":"Oust Mølle Rock"},{"name":"myShopNumber","value":"355004"},{"name":"brandId"},{"Posteringstekst":"MP Oust Mølle Rock","Artskonto":"72000000","PSP":"XG-0000002663-00002"},{"ruleId":23}],[{"name":"name","value":"Personalebet. Tirsdalens Skole"},{"name":"myShopNumber","value":"958295"},{"name":"brandId"},{"Posteringstekst":"MP Personalebet. Tirsdalens Skole","Artskonto":"72000000","PSP":"XG-0000002548-00001"},{"ruleId":24}],[{"name":"name","value":"Randers specialskoler"},{"name":"myShopNumber","value":"429274"},{"name":"brandId"},{"Posteringstekst":"MP Randers specialskoler","Artskonto":"72000000","PSP":"XG-0000002890-00056"},{"ruleId":25}],[{"name":"name","value":"Cafe Thors Bakke"},{"name":"myShopNumber","value":"575147"},{"name":"brandId"},{"Posteringstekst":"MP Cafe Thors Bakke","Artskonto":"72000000","PSP":"XG-0000004526-00039"},{"ruleId":26}],[{"name":"name","value":"Fårup Ældrecenter"},{"name":"myShopNumber","value":"151330"},{"name":"brandId"},{"Posteringstekst":"MP Fårup Ældrecenter","Artskonto":"72000000","PSP":"XG-0000004526-00048"},{"ruleId":27}],[{"name":"name","value":"Korshøjskolen"},{"name":"myShopNumber","value":"591851"},{"name":"brandId"},{"Posteringstekst":"MP Korshøjskolen","Artskonto":"72000000","PSP":"XG-0000002465-00047"},{"ruleId":28}],[{"name":"name","value":"Randers Bibliotek, Betalingstermnial"},{"name":"myShopNumber","value":"834138"},{"name":"brandId"},{"Posteringstekst":"MP Randers Bibliotek, Betalingstermnial","Artskonto":"95941203"},{"ruleId":29}],[{"name":"name","value":"Langå Skole - Misical/skolefest"},{"name":"myShopNumber","value":"387202"},{"name":"brandId"},{"Posteringstekst":"MP Langå Skole - Misical/skolefest","Artskonto":"72000000","PSP":"XG-0000002488-00025"},{"ruleId":30}],[{"name":"name","value":"CBR Randers"},{"name":"myShopNumber","value":"616946"},{"name":"brandId"},{"Posteringstekst":"MP CBR Randers","Artskonto":"90100011"},{"ruleId":31}],[{"name":"name","value":"Center for Psykiatri Indsats"},{"name":"myShopNumber","value":"601986"},{"name":"brandId"},{"Posteringstekst":"MP Center for Psykiatri Indsats","Artskonto":"72000000","PSP":"XG-0000003038-00126"},{"ruleId":32}],[{"name":"name","value":"Condomeriet, Randers Sundhedscenter"},{"name":"myShopNumber","value":"238451"},{"name":"brandId"},{"Posteringstekst":"MP Condomeriet, Randers Sundhedscenter","Artskonto":"72000000","PSP":"XG-0000004204-00002"},{"ruleId":33}],[{"name":"name","value":"Fårup Skole og Børneby"},{"name":"myShopNumber","value":"783487"},{"name":"brandId"},{"Posteringstekst":"MP Fårup Skole og Børneby","Artskonto":"72000000","PSP":"XG-0000002402-00024"},{"ruleId":34}],[{"name":"name","value":"Gaia Butik"},{"name":"myShopNumber","value":"713400"},{"name":"brandId"},{"Posteringstekst":"MP Gaia Butik","Artskonto":"72000000","PSP":"XG-0000003040-00018"},{"ruleId":35}],[{"name":"name","value":"Café Gaia Papaya"},{"name":"myShopNumber","value":"816912"},{"name":"brandId"},{"Posteringstekst":"MP Café Gaia Papaya","Artskonto":"72000000","PSP":"XG-0000003040-00046"},{"ruleId":36}],[{"name":"name","value":"Hjernecenter Randers"},{"name":"myShopNumber","value":"293622"},{"name":"brandId"},{"Posteringstekst":"MP Hjernecenter Randers","Artskonto":"79000000","PSP":"XG-0000003020-00050"},{"ruleId":37}],[{"name":"name","value":"KFUMs Fritidsgård, Solgården"},{"name":"myShopNumber","value":"221686"},{"name":"brandId"},{"Posteringstekst":"MP KFUMs Fritidsgård, Solgården","Artskonto":"72000000","PSP":"XG-0000002633-00003"},{"ruleId":38}],[{"name":"name","value":"Randers Flyveplads"},{"name":"myShopNumber","value":"684007"},{"name":"brandId"},{"Posteringstekst":"MP Randers Flyveplads","Artskonto":"79000000","PSP":"XG-0000005086-00001"},{"ruleId":39}],[{"name":"name","value":"Boligerne Lene Bredahls Gade"},{"name":"myShopNumber","value":"421255"},{"name":"brandId"},{"Posteringstekst":"MP Boligerne Lene Bredahls Gade","Artskonto":"79000000","PSP":"XG-3038-36"},{"ruleId":40}],[{"name":"name","value":"Randers Naturcenter"},{"name":"myShopNumber","value":"211395"},{"name":"brandId"},{"Posteringstekst":"MP Randers Naturcenter","Artskonto":"72000000","PSP":"XG-0000005050-00003"},{"ruleId":41}],[{"name":"name","value":"Plejehjemmet Kildevang"},{"name":"myShopNumber","value":"764635"},{"name":"brandId"},{"Posteringstekst":"MP Plejehjemmet Kildevang","Artskonto":"72000000","PSP":"XG-0000004526-00045"},{"ruleId":42}],[{"name":"name","value":"Sprogcentret-Kantinekøb"},{"name":"myShopNumber","value":"133068"},{"name":"brandId"},{"Posteringstekst":"MP Sprogcentret-Kantinekøb","Artskonto":"95930008"},{"ruleId":43}],[{"name":"name","value":"Randers Kommune, Mobilepay 735596 Udlån 1"},{"name":"myShopNumber","value":"735596"},{"name":"brandId"},{"Posteringstekst":"MP Randers Kommune, Mobilepay 735596 Udlån 1","Artskonto":"95990009"},{"ruleId":44}],[{"name":"name","value":"Trekløverskolen Borup byvej salatordning"},{"name":"myShopNumber","value":"287970"},{"name":"brandId"},{"Posteringstekst":"MP Trekløverskolen Borup byvej salatordning","Artskonto":"72000000","PSP":"XG-0000002890-00056"},{"ruleId":45}],[{"name":"name","value":"Dagtilbuddet Aktivitetscenter Randers"},{"name":"myShopNumber","value":"127067"},{"name":"brandId"},{"Posteringstekst":"MP Dagtilbuddet Aktivitetscenter Randers","Artskonto":"79000000","PSP":"XG-0000003038-00040"},{"ruleId":46}],[{"name":"name","value":"Trekløverskolen- Borup Byvej - Fester"},{"name":"myShopNumber","value":"870951"},{"name":"brandId"},{"Posteringstekst":"MP Trekløverskolen- Borup Byvej - Fester","Artskonto":"72000000","PSP":"XG-0000002890-00059"},{"ruleId":47}],[{"name":"name","value":"Randers Kommune Udlån 2 989541"},{"name":"myShopNumber","value":"989541"},{"name":"brandId"},{"Posteringstekst":"MP Randers Kommune Udlån 2 989541","Artskonto":"95990009"},{"ruleId":48}],[{"name":"name","value":"MOE Kulturhuset"},{"name":"myShopNumber","value":"580075"},{"name":"brandId"},{"Posteringstekst":"MP MOE Kulturhuset","Artskonto":"95941300"},{"ruleId":49}],[{"name":"name","value":"MOE Håndværksmuseet"},{"name":"myShopNumber","value":"736118"},{"name":"brandId"},{"Posteringstekst":"MP MOE Håndværksmuseet","Artskonto":"95941300"},{"ruleId":50}],[{"name":"name","value":"MOE Købmandsgården"},{"name":"myShopNumber","value":"168470"},{"name":"brandId"},{"Posteringstekst":"MP MOE Købmandsgården","Artskonto":"95941300"},{"ruleId":51}],[{"name":"name","value":"MOE Siam"},{"name":"myShopNumber","value":"899149"},{"name":"brandId"},{"Posteringstekst":"MP MOE Siam","Artskonto":"95941300"},{"ruleId":52}],[{"name":"name","value":"MOE Farvergården"},{"name":"myShopNumber","value":"941386"},{"name":"brandId"},{"Posteringstekst":"MP MOE Farvergården","Artskonto":"95941300"},{"ruleId":53}],[{"name":"name","value":"MOE Ebeltoft Rådhus"},{"name":"myShopNumber","value":"991538"},{"name":"brandId"},{"Posteringstekst":"MP MOE Ebeltoft Rådhus","Artskonto":"95941300"},{"ruleId":54}],[{"name":"name","value":"Kollektivhuset"},{"name":"myShopNumber","value":"711993"},{"name":"brandId"},{"Posteringstekst":"MP Kollektivhuset","Artskonto":"72000000","PSP":"XG-0000004526-00044"},{"ruleId":55}],[{"name":"name","value":"Vorup Plejehjem"},{"name":"myShopNumber","value":"844608"},{"name":"brandId"},{"Posteringstekst":"MP Vorup Plejehjem","Artskonto":"72000000","PSP":"XG-0000004526-00041"},{"ruleId":56}],[{"name":"name","value":"Filial Langå"},{"name":"myShopNumber","value":"795511"},{"name":"brandId"},{"Posteringstekst":"MP Filial Langå","Artskonto":"95941206"},{"ruleId":57}],[{"name":"name","value":"Filial SYD"},{"name":"myShopNumber","value":"301325"},{"name":"brandId"},{"Posteringstekst":"MP Filial SYD","Artskonto":"95941204"},{"ruleId":58}],[{"name":"name","value":"Filial ØST"},{"name":"myShopNumber","value":"106833"},{"name":"brandId"},{"Posteringstekst":"MP Filial ØST","Artskonto":"95941205"},{"ruleId":59}],[{"name":"name","value":"Nørrevangsskolen - Lejrskole"},{"name":"myShopNumber","value":"808231"},{"name":"brandId"},{"Posteringstekst":"MP Nørrevangsskolen - Lejrskole","Artskonto":"72000000","PSP":"XG-0000002511-00020"},{"ruleId":60}],[{"name":"name","value":"Affaldsterminalen"},{"name":"myShopNumber","value":"320331"},{"name":"brandId"},{"Posteringstekst":"MP Affaldsterminalen","Artskonto":"72000000","PSP":"XG-0000005010-00080"},{"ruleId":61}],[{"name":"name","value":"Caféen Orangeriet Huset Nyvang"},{"name":"myShopNumber","value":"547332"},{"name":"brandId"},{"Posteringstekst":"MP Caféen Orangeriet Huset Nyvang","Artskonto":"72000000","PSP":"XG-0000004526-00051"},{"ruleId":62}],[{"name":"name","value":"Affaldskontoret"},{"name":"myShopNumber","value":"348681"},{"name":"brandId"},{"Posteringstekst":"MP Affaldskontoret","Artskonto":"72000000","PSP":"XG-0000005285-00006"},{"ruleId":63}],[{"name":"name","value":"Kristrupcentret"},{"name":"myShopNumber","value":"248493"},{"name":"brandId"},{"Posteringstekst":"MP Kristrupcentret","Artskonto":"79000000","PSP":"XG-0000004526-00034"},{"ruleId":64}],[{"name":"name","value":"Jennumparkens fritidshjem"},{"name":"myShopNumber","value":"187771"},{"name":"brandId"},{"Posteringstekst":"MP Jennumparkens fritidshjem","Artskonto":"72000000","PSP":"XG-0000002598-00003"},{"ruleId":65}],[{"name":"name","value":"Nellemann"},{"name":"myShopNumber","value":"599151"},{"name":"brandId"},{"Posteringstekst":"MP Nellemann","Artskonto":"72000000","PSP":"XG-0000004526-00037"},{"ruleId":66}],[{"name":"name","value":"Asferg Skole"},{"name":"myShopNumber","value":"142445"},{"name":"brandId"},{"Posteringstekst":"MP Asferg Skole","Artskonto":"72000000","PSP":"XG-0000002359-00016"},{"ruleId":67}],[{"name":"name","value":"Munkholmskolen"},{"name":"myShopNumber","value":"659127"},{"name":"brandId"},{"Posteringstekst":"MP Munkholmskolen","Artskonto":"79000000","PSP":"XG-0000002501-00022"},{"ruleId":68}],[{"name":"name","value":"Udbyhøj Lystbådehavn"},{"name":"myShopNumber","value":"398278"},{"name":"brandId"},{"Posteringstekst":"MP Udbyhøj Lystbådehavn","Artskonto":"79000000","PSP":"XG-0000004025-00002"},{"ruleId":69}],[{"name":"name","value":"Madservice Kronjylland "},{"name":"myShopNumber","value":"726082"},{"name":"brandId"},{"Posteringstekst":"MP Madservice Kronjylland ","Artskonto":"72000000","PSP":"xg-0000004526-00018"},{"ruleId":70}],[{"name":"name","value":"Matrielgården"},{"name":"myShopNumber","value":"350353"},{"name":"brandId"},{"Posteringstekst":"MP Matrielgården","Artskonto":"79000000","PSP":"XG-0000005004-00023"},{"ruleId":71}],[{"name":"name","value":"Markedsgade"},{"name":"myShopNumber","value":"755789"},{"name":"brandId"},{"Posteringstekst":"MP Markedsgade","Artskonto":"72000000","PSP":"XG-0000003038-00105"},{"ruleId":72}],[{"name":"name","value":"Blicherskolen"},{"name":"myShopNumber","value":"935134"},{"name":"brandId"},{"Posteringstekst":"MP Blicherskolen","Artskonto":"79000000","PSP":"XG-0000002392-00042"},{"ruleId":73}],[{"name":"name","value":"Cafe Åbakken"},{"name":"myShopNumber","value":"582771"},{"name":"brandId"},{"Posteringstekst":"MP Cafe Åbakken","Artskonto":"72000000","PSP":"XG-0000004526-00026"},{"ruleId":74}],[{"name":"name","value":"Vestervangsskolen"},{"name":"myShopNumber","value":"830577"},{"name":"brandId"},{"Posteringstekst":"MP Vestervangsskolen","Artskonto":"79000000","PSP":"XG-0000002555-00002"},{"ruleId":75}],[{"name":"name","value":"Vestervangsskolen Juniorklubben"},{"name":"myShopNumber","value":"344413"},{"name":"brandId"},{"Posteringstekst":"MP Vestervangsskolen Juniorklubben","Artskonto":"79000000","PSP":"XG-0000002564-00001"},{"ruleId":76}],[{"name":"name","value":"CSV"},{"name":"myShopNumber","value":"472001"},{"name":"brandId"},{"Posteringstekst":"MP CSV","Artskonto":"95932400"},{"ruleId":77}],[{"name":"name","value":"Plejecenter Lindevænget"},{"name":"myShopNumber","value":"261333"},{"name":"brandId"},{"Posteringstekst":"MP Plejecenter Lindevænget","Artskonto":"72000000","PSP":"XG-0000004526-00036"},{"ruleId":78}],[{"name":"name","value":"Svaleparken "},{"name":"myShopNumber","value":"543825"},{"name":"brandId"},{"Posteringstekst":"MP Svaleparken ","Artskonto":"72000000","PSP":"XG-0000004526-00038"},{"ruleId":79}],[{"name":"name","value":"Plejecenter Tirsdalen"},{"name":"myShopNumber","value":"866375"},{"name":"brandId"},{"Posteringstekst":"MP Plejecenter Tirsdalen","Artskonto":"72000000","PSP":"XG-0000004526-00040"},{"ruleId":80}],[{"name":"name","value":"Hornbæk Juniorklub"},{"name":"myShopNumber","value":"742954"},{"name":"brandId"},{"Posteringstekst":"MP Hornbæk Juniorklub","Artskonto":"72000000","PSP":"XG-0000002461-00001"},{"ruleId":81}],[{"name":"name","value":"Tirsdalens Skole -Arrangementer/ lejr"},{"name":"myShopNumber","value":"182105"},{"name":"brandId"},{"Posteringstekst":"MP Tirsdalens Skole -Arrangementer/ lejr","Artskonto":"79000000","PSP":"XG-0000002544-00024"},{"ruleId":82}],[{"name":"name","value":"Fritidsklubben Vennelyst"},{"name":"myShopNumber","value":"995139"},{"name":"brandId"},{"Posteringstekst":"MP Fritidsklubben Vennelyst","Artskonto":"72000000","PSP":"XG-0000002484-00001"},{"ruleId":83}],[{"name":"name","value":"Hornbæk Skole"},{"name":"myShopNumber","value":"731049"},{"name":"brandId"},{"Posteringstekst":"MP Hornbæk Skole","Artskonto":"79000000","PSP":"XG-0000002452-00024"},{"ruleId":84}],[{"name":"name","value":"Randers kommune udlån nr 3"},{"name":"myShopNumber","value":"669655"},{"name":"brandId"},{"Posteringstekst":"MP Randers kommune udlån nr 3","Artskonto":"95990009"},{"ruleId":85}],[{"name":"name","value":"Sprogcenter Til Webshop"},{"name":"myShopNumber","value":"778549"},{"name":"brandId"},{"Posteringstekst":"MP Sprogcenter Til Webshop","Artskonto":"79000000","PSP":"XG-0000003397-00016"},{"ruleId":86}],[{"name":"name","value":"Søndermarkskolen - Skolefest"},{"name":"myShopNumber","value":"374111"},{"name":"brandId"},{"Posteringstekst":"MP Søndermarkskolen - Skolefest","Artskonto":"79000000","PSP":"XG-0000002531-00002"},{"ruleId":87}],[{"name":"name","value":"Kloge Hænder Messe - velfærd med omtanke 2023"},{"name":"myShopNumber","value":"104171"},{"name":"brandId"},{"Posteringstekst":"MP Kloge Hænder Messe - velfærd med omtanke 2023","Artskonto":"79000000","PSP":"XG-0000003020-00276"},{"ruleId":88}],[{"name":"name","value":"Møbelcirklen"},{"name":"myShopNumber","value":"675451"},{"name":"brandId"},{"Posteringstekst":"MP Møbelcirklen","Artskonto":"72000000","PSP":"XG-0000003078-00122"},{"ruleId":89}],[{"name":"name","value":"Randers Ungdomsskole Afdeling Heltidsundervisning"},{"name":"myShopNumber","value":"971414"},{"name":"brandId"},{"Posteringstekst":"MP Randers Ungdomsskole Afdeling Heltidsundervisning","Artskonto":"79000000","PSP":"XG-0000002669-00008"},{"ruleId":90}],[{"name":"name","value":"Havndal Skole"},{"name":"myShopNumber","value":"659660"},{"name":"brandId"},{"Posteringstekst":"MP Havndal Skole","Artskonto":"79000000","PSP":"XG-0000002426-00017"},{"ruleId":91}],[{"name":"name","value":"Randers Cykelby-Udlån cykler"},{"name":"myShopNumber","value":"222297"},{"name":"brandId"},{"Posteringstekst":"MP Randers Cykelby-Udlån cykler","Artskonto":"79000000","PSP":"XG-0000005063-00011"},{"ruleId":92}],[{"name":"name","value":"Holbergkollegiet"},{"name":"myShopNumber","value":"531472"},{"name":"brandId"},{"Posteringstekst":"MP Holbergkollegiet","Artskonto":"79000000","PSP":"XG-0000003038-00171"},{"ruleId":93}],[{"name":"name","value":"Assentoftskolen"},{"name":"myShopNumber","value":"992725"},{"name":"brandId"},{"Posteringstekst":"MP Assentoftskolen","Artskonto":"79000000","PSP":"xg-2369-22"},{"ruleId":94}],[{"name":"name","value":"Håndværkerparkering"},{"name":"myShopNumber","value":"648811"},{"name":"brandId"},{"Posteringstekst":"MP Håndværkerparkering","Artskonto":"79000000","PSP":"XG-0000005096-00009"},{"ruleId":95}],[{"name":"name","value":"Giv Randers et træ"},{"name":"myShopNumber","value":"150664"},{"name":"brandId"},{"Posteringstekst":"MP Giv Randers et træ","Artskonto":"79000000","PSP":"XA-9258200001-00041"},{"ruleId":96}],[{"name":"name","value":"PLC"},{"name":"myShopNumber","value":"469446"},{"name":"brandId"},{"Posteringstekst":"MP PLC","Artskonto":"79000000","PSP":"XG-0000002555-00002"},{"ruleId":97}],[{"name":"name","value":"Rismølleskolen-Skolefest"},{"name":"myShopNumber","value":"349250"},{"name":"brandId"},{"Posteringstekst":"MP Rismølleskolen-Skolefest","Artskonto":"72000000","PSP":"XG-0000002521-00031"},{"ruleId":98}],[{"name":"name","value":"Bjerregrav skole-skolefest arrangementer"},{"name":"myShopNumber","value":"351378"},{"name":"brandId"},{"Posteringstekst":"MP Bjerregrav skole-skolefest arrangementer","Artskonto":"72000000","PSP":"XG-0000002382-00017"},{"ruleId":99}],[{"name":"name","value":"Kristrup skole-vilde vulkaner"},{"name":"myShopNumber","value":"134100"},{"name":"brandId"},{"Posteringstekst":"MP Kristrup skole-vilde vulkaner","Artskonto":"79000000","PSP":"XG-0000002475-00029"},{"ruleId":100}],[{"name":"name","value":"Kristrup Skole-Lejrskole"},{"name":"myShopNumber","value":"824395"},{"name":"brandId"},{"Posteringstekst":"MP Kristrup Skole-Lejrskole","Artskonto":"79000000","PSP":"XG-0000002475-00015"},{"ruleId":101}],[{"name":"name","value":"Kristrup skole-Elevråd"},{"name":"myShopNumber","value":"894390"},{"name":"brandId"},{"Posteringstekst":"MP Kristrup skole-Elevråd","Artskonto":"79000000","PSP":"XG-0000002475-00018"},{"ruleId":102}],[{"name":"name","value":"RU fælles kiosk"},{"name":"myShopNumber","value":"192334"},{"name":"brandId"},{"Posteringstekst":"MP RU fælles kiosk","Artskonto":"72000000","PSP":"XG-0000002668-00027"},{"ruleId":103}],[{"name":"name","value":"Randers Musikskole"},{"name":"myShopNumber","value":"440754"},{"name":"brandId"},{"Posteringstekst":"MP Randers Musikskole","Artskonto":"72000000","PSP":"XG-0000004087-00001"},{"ruleId":104}],[{"name":"name","value":"Sammenhængskonference i Familieområdet"},{"name":"myShopNumber","value":"940094"},{"name":"brandId"},{"Posteringstekst":"MP Sammenhængskonference i Familieområdet","Artskonto":"79000000","PSP":"XG-0000002830-00001"},{"ruleId":105}],[{"name":"name","value":"Bar Ridehus/Amfi"},{"name":"myShopNumber","value":"660231"},{"name":"brandId"},{"Posteringstekst":"MP Bar Ridehus/Amfi","Artskonto":"72000000","PSP":"XG-0000004100-00018"},{"ruleId":106}],[{"name":"name","value":"Kaffeautomater-Sprogcenter Randers"},{"name":"myShopNumber","value":"710462"},{"name":"brandId"},{"Posteringstekst":"MP Kaffeautomater-Sprogcenter Randers","Artskonto":"79000000","PSP":"XG-0000003397-00050"},{"ruleId":107}],[{"name":"name","value":"Område Syd Vorup Plejehjem cafe"},{"name":"myShopNumber"},{"name":"brandId","value":"f049197e-0f0a-47ff-a464-ecc21ea28eff"},{"Posteringstekst":"MP Område Syd Vorup Plejehjem cafe","Artskonto":"72000000","PSP":"XG-0000004526-00041"},{"ruleId":108}],[{"name":"name","value":"Område Syd Lindevænget"},{"name":"myShopNumber"},{"name":"brandId","value":"edd74eec-f3bc-446a-a56d-e426336c0c1e"},{"Posteringstekst":"MP Område Syd Lindevænget","Artskonto":"72000000","PSP":"XG-0000004526-00036"},{"ruleId":109}],[{"name":"name","value":"Område Syd Svaleparken"},{"name":"myShopNumber"},{"name":"brandId","value":"c91e7d33-3334-46bb-8b2f-b256328375ac"},{"Posteringstekst":"MP Område Syd Svaleparken","Artskonto":"72000000","PSP":"XG-0000004526-00038"},{"ruleId":110}],[{"name":"name","value":"Område Vest Kollektivhuset"},{"name":"myShopNumber"},{"name":"brandId","value":"ac28534c-4689-407c-8227-1e851173dbb4"},{"Posteringstekst":"MP Område Vest Kollektivhuset","Artskonto":"72000000","PSP":"XG-0000004526-00044"},{"ruleId":111}],[{"name":"name","value":"Område Vest Terneparken"},{"name":"myShopNumber"},{"name":"brandId","value":"8778a1f5-4846-4e78-9151-cb1c4a0a55d4"},{"Posteringstekst":"MP Område Vest Terneparken","Artskonto":"72000000","PSP":"XG-0000004526-00048"},{"ruleId":112}],[{"name":"name","value":"Område Syd Tirsdalen"},{"name":"myShopNumber"},{"name":"brandId","value":"810ca2fb-fc47-4c65-b053-b682e52a20e3"},{"Posteringstekst":"MP Område Syd Tirsdalen","Artskonto":"72000000","PSP":"XG-0000004526-00040"},{"ruleId":113}],[{"name":"name","value":"Område Nord Dronningborg"},{"name":"myShopNumber"},{"name":"brandId","value":"6b37446f-e5dc-45d7-8efa-f10a6b4b40e6"},{"Posteringstekst":"MP Område Nord Dronningborg","Artskonto":"72000000","PSP":"XG-0000004526-00030"},{"ruleId":114}],[{"name":"name","value":"Område Vest Borupvænget"},{"name":"myShopNumber"},{"name":"brandId","value":"5e7cb329-52ec-42f5-99ef-6b02cc3c5274"},{"Posteringstekst":"MP Område Vest Borupvænget","Artskonto":"72000000","PSP":"XG-0000004526-00046"},{"ruleId":115}],[{"name":"name","value":"Område Nord Møllevang"},{"name":"myShopNumber"},{"name":"brandId","value":"4e4c0117-42f7-45f9-839e-11a16bec5eef"},{"Posteringstekst":"MP Område Nord Møllevang","Artskonto":"72000000","PSP":"XG-0000004526-00033"},{"ruleId":116}],[{"name":"name","value":"PAS Borgerservice 1"},{"name":"myShopNumber"},{"name":"brandId","value":"45bbd6f9-013c-4af9-84ab-fdddaf12415b"},{"Posteringstekst":"MP PAS Borgerservice","Artskonto":"72000000","PSP":"XG-0000004526-00039"},{"ruleId":117}],[{"name":"name","value":"PAS Borgerservice 2"},{"name":"myShopNumber"},{"name":"brandId","value":"77111c77-92bc-4adc-ae81-96ac42f79ad3"},{"Posteringstekst":"MP PAS Borgerservice","Artskonto":"72000000","PSP":"XG-0000004526-00039"},{"ruleId":118}],[{"name":"name","value":"Thors Bakke"},{"name":"myShopNumber"},{"name":"brandId","value":"55f1f202-b10c-4177-8ae1-3da6da9d13d5"},{"Posteringstekst":"MP Thors Bakke","Artskonto":"72000000","PSP":"XG-0000004526-00039"},{"ruleId":119}],[{"name":"name","value":"Område Nord Bakkegården"},{"name":"myShopNumber"},{"name":"brandId","value":"1457b4db-6d02-44cb-916c-8c7bf9e3463a"},{"Posteringstekst":"MP Område Nord Bakkegården","Artskonto":"72000000","PSP":"XG-0000004526-00028"},{"ruleId":120}],[{"name":"name","value":"Café Nellemann"},{"name":"myShopNumber"},{"name":"brandId","value":"07600a99-58cd-42b8-b83e-03a2e3cfb04c"},{"Posteringstekst":"MP Café Nellemann","Artskonto":"72000000","PSP":"XG-0000004526-00037"},{"ruleId":121}],[{"name":"name","value":"Randers Fjords Færgefart"},{"name":"myShopNumber"},{"name":"brandId","value":"b5c4a33b-2cf0-4075-b524-df12c6994974"},{"Posteringstekst":"MP Randers Fjords Færgefart","Artskonto":"79000000","PSP":"XG-0000005094-00001"},{"ruleId":122}],[{"name":"name","value":"Randers Bibliotek"},{"name":"myShopNumber"},{"name":"brandId","value":"f34a20f8-d194-41c4-a977-49469b0ec907"},{"Posteringstekst":"MP Randers Bibliotek","Artskonto":"95941203"},{"ruleId":123}],[{"name":"name","value":"Område Norde Åbakken"},{"name":"myShopNumber"},{"name":"brandId","value":"e576cad2-7418-47c4-8437-0d97b4d1696b"},{"Posteringstekst":"MP Område Norde Åbakken","Artskonto":"72000000","PSP":"XG-0000004526-00031"},{"ruleId":124}],[{"name":"name","value":"Område Syd Huset Nyvang"},{"name":"myShopNumber"},{"name":"brandId","value":"c9a8160e-5af7-413f-bf43-7e65fa85cbfd"},{"Posteringstekst":"MP Område Syd Huset Nyvang","Artskonto":"72000000","PSP":"XG-0000004526-00035"},{"ruleId":125}],[{"name":"name","value":"Område Vest Kildevang"},{"name":"myShopNumber"},{"name":"brandId","value":"77291057-f418-4e5c-bae1-7f3fc13704ff"},{"Posteringstekst":"MP Område Vest Kildevang","Artskonto":"72000000","PSP":"XG-0000004526-00045"},{"ruleId":126}]]
+[
+    [
+        {
+            "name": "name",
+            "value": "Klub Fårup"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "155841"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Klub Fårup",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00014"
+        },
+        {
+            "ruleId": 0
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Klub Hornbæk"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "227388"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Klub Hornbæk",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00016"
+        },
+        {
+            "ruleId": 1
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Ungemiljø NORD"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "344205"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Ungemiljø NORD",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00021"
+        },
+        {
+            "ruleId": 2
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Klub Langå"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "910387"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Klub Langå",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00017"
+        },
+        {
+            "ruleId": 3
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Klub Harridslev"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "310450"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Klub Harridslev",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00015"
+        },
+        {
+            "ruleId": 4
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Klub Assentoft"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "646778"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Klub Assentoft",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00012"
+        },
+        {
+            "ruleId": 5
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Ungemiljø Syd"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "917050"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Ungemiljø Syd",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00022"
+        },
+        {
+            "ruleId": 6
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Fantasifabrikken"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "778357"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Fantasifabrikken",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00011"
+        },
+        {
+            "ruleId": 7
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Klub Øster Tørslev"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "280120"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Klub Øster Tørslev",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00019"
+        },
+        {
+            "ruleId": 8
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Klub Spentrup"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "692988"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Klub Spentrup",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00018"
+        },
+        {
+            "ruleId": 9
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Ungemiljø Midt/Kaosambassaden"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "654227"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Ungemiljø Midt/Kaosambassaden",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00020"
+        },
+        {
+            "ruleId": 10
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Ungdomsskole - undervisning"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "758343"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers Ungdomsskole - undervisning",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002667-00008"
+        },
+        {
+            "ruleId": 11
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Ungdomsklubben Bjerregrav"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "265828"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Ungdomsklubben Bjerregrav",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00013"
+        },
+        {
+            "ruleId": 12
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Museum Østjylland"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "573604"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Museum Østjylland",
+            "Artskonto": "95941300"
+        },
+        {
+            "ruleId": 13
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Søndermarkskolen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "694520"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Søndermarkskolen",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002531-00016"
+        },
+        {
+            "ruleId": 14
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Hobrovejens Skole"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "797898"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Hobrovejens Skole",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002439-00024"
+        },
+        {
+            "ruleId": 15
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Kommune Fritidsaktiviteter (CHI)"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "430074"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers Kommune Fritidsaktiviteter (CHI)",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000003070-00001"
+        },
+        {
+            "ruleId": 16
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Tirsdalens Skole"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "231633"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Tirsdalens Skole",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002544-00025"
+        },
+        {
+            "ruleId": 17
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Østervangsskolen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "448873"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Østervangsskolen",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002568-00049"
+        },
+        {
+            "ruleId": 18
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Grønhøjskolen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "977572"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Grønhøjskolen",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002415-00039"
+        },
+        {
+            "ruleId": 19
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Kristrup Skole"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "686410"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Kristrup Skole",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002475-00016"
+        },
+        {
+            "ruleId": 20
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Rismølleskolen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "254904"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Rismølleskolen",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002521-00031"
+        },
+        {
+            "ruleId": 21
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Nørrevangsskolen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "866110"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Nørrevangsskolen",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002511-00021"
+        },
+        {
+            "ruleId": 22
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Oust Mølle Rock"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "355004"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Oust Mølle Rock",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002663-00002"
+        },
+        {
+            "ruleId": 23
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Personalebet. Tirsdalens Skole"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "958295"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Personalebet. Tirsdalens Skole",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002548-00001"
+        },
+        {
+            "ruleId": 24
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers specialskoler"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "429274"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers specialskoler",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002890-00056"
+        },
+        {
+            "ruleId": 25
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Cafe Thors Bakke"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "575147"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Cafe Thors Bakke",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00039"
+        },
+        {
+            "ruleId": 26
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Fårup Ældrecenter"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "151330"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Fårup Ældrecenter",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00048"
+        },
+        {
+            "ruleId": 27
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Korshøjskolen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "591851"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Korshøjskolen",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002465-00047"
+        },
+        {
+            "ruleId": 28
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Bibliotek, Betalingstermnial"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "834138"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers Bibliotek, Betalingstermnial",
+            "Artskonto": "95941203"
+        },
+        {
+            "ruleId": 29
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Langå Skole - Misical/skolefest"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "387202"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Langå Skole - Misical/skolefest",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002488-00025"
+        },
+        {
+            "ruleId": 30
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "CBR Randers"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "616946"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP CBR Randers",
+            "Artskonto": "90100011"
+        },
+        {
+            "ruleId": 31
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Center for Psykiatri Indsats"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "601986"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Center for Psykiatri Indsats",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000003038-00126"
+        },
+        {
+            "ruleId": 32
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Condomeriet, Randers Sundhedscenter"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "238451"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Condomeriet, Randers Sundhedscenter",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004204-00002"
+        },
+        {
+            "ruleId": 33
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Fårup Skole og Børneby"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "783487"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Fårup Skole og Børneby",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002402-00024"
+        },
+        {
+            "ruleId": 34
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Gaia Butik"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "713400"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Gaia Butik",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000003040-00018"
+        },
+        {
+            "ruleId": 35
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Café Gaia Papaya"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "816912"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Café Gaia Papaya",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000003040-00046"
+        },
+        {
+            "ruleId": 36
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Hjernecenter Randers"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "293622"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Hjernecenter Randers",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000003020-00050"
+        },
+        {
+            "ruleId": 37
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "KFUMs Fritidsgård, Solgården"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "221686"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP KFUMs Fritidsgård, Solgården",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002633-00003"
+        },
+        {
+            "ruleId": 38
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Flyveplads"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "684007"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers Flyveplads",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000005086-00001"
+        },
+        {
+            "ruleId": 39
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Boligerne Lene Bredahls Gade"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "421255"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Boligerne Lene Bredahls Gade",
+            "Artskonto": "79000000",
+            "PSP": "XG-3038-36"
+        },
+        {
+            "ruleId": 40
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Naturcenter"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "211395"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers Naturcenter",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000005050-00003"
+        },
+        {
+            "ruleId": 41
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Plejehjemmet Kildevang"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "764635"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Plejehjemmet Kildevang",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00045"
+        },
+        {
+            "ruleId": 42
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Sprogcentret-Kantinekøb"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "133068"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Sprogcentret-Kantinekøb",
+            "Artskonto": "95930008"
+        },
+        {
+            "ruleId": 43
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Kommune, Mobilepay 735596 Udlån 1"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "735596"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers Kommune, Mobilepay 735596 Udlån 1",
+            "Artskonto": "95990009"
+        },
+        {
+            "ruleId": 44
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Trekløverskolen Borup byvej salatordning"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "287970"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Trekløverskolen Borup byvej salatordning",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002890-00056"
+        },
+        {
+            "ruleId": 45
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Dagtilbuddet Aktivitetscenter Randers"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "127067"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Dagtilbuddet Aktivitetscenter Randers",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000003038-00040"
+        },
+        {
+            "ruleId": 46
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Trekløverskolen- Borup Byvej - Fester"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "870951"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Trekløverskolen- Borup Byvej - Fester",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002890-00059"
+        },
+        {
+            "ruleId": 47
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Kommune Udlån 2 989541"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "989541"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers Kommune Udlån 2 989541",
+            "Artskonto": "95990009"
+        },
+        {
+            "ruleId": 48
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "MOE Kulturhuset"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "580075"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP MOE Kulturhuset",
+            "Artskonto": "95941300"
+        },
+        {
+            "ruleId": 49
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "MOE Håndværksmuseet"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "736118"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP MOE Håndværksmuseet",
+            "Artskonto": "95941300"
+        },
+        {
+            "ruleId": 50
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "MOE Købmandsgården"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "168470"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP MOE Købmandsgården",
+            "Artskonto": "95941300"
+        },
+        {
+            "ruleId": 51
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "MOE Siam"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "899149"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP MOE Siam",
+            "Artskonto": "95941300"
+        },
+        {
+            "ruleId": 52
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "MOE Farvergården"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "941386"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP MOE Farvergården",
+            "Artskonto": "95941300"
+        },
+        {
+            "ruleId": 53
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "MOE Ebeltoft Rådhus"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "991538"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP MOE Ebeltoft Rådhus",
+            "Artskonto": "95941300"
+        },
+        {
+            "ruleId": 54
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Kollektivhuset"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "711993"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Kollektivhuset",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00044"
+        },
+        {
+            "ruleId": 55
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Vorup Plejehjem"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "844608"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Vorup Plejehjem",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00041"
+        },
+        {
+            "ruleId": 56
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Filial Langå"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "795511"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Filial Langå",
+            "Artskonto": "95941206"
+        },
+        {
+            "ruleId": 57
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Filial SYD"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "301325"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Filial SYD",
+            "Artskonto": "95941204"
+        },
+        {
+            "ruleId": 58
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Filial ØST"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "106833"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Filial ØST",
+            "Artskonto": "95941205"
+        },
+        {
+            "ruleId": 59
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Nørrevangsskolen - Lejrskole"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "808231"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Nørrevangsskolen - Lejrskole",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002511-00020"
+        },
+        {
+            "ruleId": 60
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Affaldsterminalen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "320331"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Affaldsterminalen",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000005010-00080"
+        },
+        {
+            "ruleId": 61
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Caféen Orangeriet Huset Nyvang"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "547332"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Caféen Orangeriet Huset Nyvang",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00051"
+        },
+        {
+            "ruleId": 62
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Affaldskontoret"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "348681"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Affaldskontoret",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000005285-00006"
+        },
+        {
+            "ruleId": 63
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Kristrupcentret"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "248493"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Kristrupcentret",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000004526-00034"
+        },
+        {
+            "ruleId": 64
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Jennumparkens fritidshjem"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "187771"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Jennumparkens fritidshjem",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002598-00003"
+        },
+        {
+            "ruleId": 65
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Nellemann"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "599151"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Nellemann",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00037"
+        },
+        {
+            "ruleId": 66
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Asferg Skole"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "142445"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Asferg Skole",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002359-00016"
+        },
+        {
+            "ruleId": 67
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Munkholmskolen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "659127"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Munkholmskolen",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002501-00022"
+        },
+        {
+            "ruleId": 68
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Udbyhøj Lystbådehavn"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "398278"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Udbyhøj Lystbådehavn",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000004025-00002"
+        },
+        {
+            "ruleId": 69
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Madservice Kronjylland "
+        },
+        {
+            "name": "myShopNumber",
+            "value": "726082"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Madservice Kronjylland ",
+            "Artskonto": "72000000",
+            "PSP": "xg-0000004526-00018"
+        },
+        {
+            "ruleId": 70
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Matrielgården"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "350353"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Matrielgården",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000005004-00023"
+        },
+        {
+            "ruleId": 71
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Markedsgade"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "755789"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Markedsgade",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000003038-00105"
+        },
+        {
+            "ruleId": 72
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Blicherskolen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "935134"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Blicherskolen",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002392-00042"
+        },
+        {
+            "ruleId": 73
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Cafe Åbakken"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "582771"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Cafe Åbakken",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00026"
+        },
+        {
+            "ruleId": 74
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Vestervangsskolen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "830577"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Vestervangsskolen",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002555-00002"
+        },
+        {
+            "ruleId": 75
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Vestervangsskolen Juniorklubben"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "344413"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Vestervangsskolen Juniorklubben",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002564-00001"
+        },
+        {
+            "ruleId": 76
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "CSV"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "472001"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP CSV",
+            "Artskonto": "95932400"
+        },
+        {
+            "ruleId": 77
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Plejecenter Lindevænget"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "261333"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Plejecenter Lindevænget",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00036"
+        },
+        {
+            "ruleId": 78
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Svaleparken "
+        },
+        {
+            "name": "myShopNumber",
+            "value": "543825"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Svaleparken ",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00038"
+        },
+        {
+            "ruleId": 79
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Plejecenter Tirsdalen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "866375"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Plejecenter Tirsdalen",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00040"
+        },
+        {
+            "ruleId": 80
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Hornbæk Juniorklub"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "742954"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Hornbæk Juniorklub",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002461-00001"
+        },
+        {
+            "ruleId": 81
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Tirsdalens Skole -Arrangementer/ lejr"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "182105"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Tirsdalens Skole -Arrangementer/ lejr",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002544-00024"
+        },
+        {
+            "ruleId": 82
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Fritidsklubben Vennelyst"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "995139"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Fritidsklubben Vennelyst",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002484-00001"
+        },
+        {
+            "ruleId": 83
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Hornbæk Skole"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "731049"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Hornbæk Skole",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002452-00024"
+        },
+        {
+            "ruleId": 84
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers kommune udlån nr 3"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "669655"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers kommune udlån nr 3",
+            "Artskonto": "95990009"
+        },
+        {
+            "ruleId": 85
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Sprogcenter Til Webshop"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "778549"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Sprogcenter Til Webshop",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000003397-00016"
+        },
+        {
+            "ruleId": 86
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Søndermarkskolen - Skolefest"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "374111"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Søndermarkskolen - Skolefest",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002531-00002"
+        },
+        {
+            "ruleId": 87
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Kloge Hænder Messe - velfærd med omtanke 2023"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "104171"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Kloge Hænder Messe - velfærd med omtanke 2023",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000003020-00276"
+        },
+        {
+            "ruleId": 88
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Møbelcirklen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "675451"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Møbelcirklen",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000003078-00122"
+        },
+        {
+            "ruleId": 89
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Ungdomsskole Afdeling Heltidsundervisning"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "971414"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers Ungdomsskole Afdeling Heltidsundervisning",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002669-00008"
+        },
+        {
+            "ruleId": 90
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Havndal Skole"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "659660"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Havndal Skole",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002426-00017"
+        },
+        {
+            "ruleId": 91
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Cykelby-Udlån cykler"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "222297"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers Cykelby-Udlån cykler",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000005063-00011"
+        },
+        {
+            "ruleId": 92
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Holbergkollegiet"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "531472"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Holbergkollegiet",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000003038-00171"
+        },
+        {
+            "ruleId": 93
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Assentoftskolen"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "992725"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Assentoftskolen",
+            "Artskonto": "79000000",
+            "PSP": "xg-2369-22"
+        },
+        {
+            "ruleId": 94
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Håndværkerparkering"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "648811"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Håndværkerparkering",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000005096-00009"
+        },
+        {
+            "ruleId": 95
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Giv Randers et træ"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "150664"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Giv Randers et træ",
+            "Artskonto": "79000000",
+            "PSP": "XA-9258200001-00041"
+        },
+        {
+            "ruleId": 96
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "PLC"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "469446"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP PLC",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002555-00002"
+        },
+        {
+            "ruleId": 97
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Rismølleskolen-Skolefest"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "349250"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Rismølleskolen-Skolefest",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002521-00031"
+        },
+        {
+            "ruleId": 98
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Bjerregrav skole-skolefest arrangementer"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "351378"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Bjerregrav skole-skolefest arrangementer",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002382-00017"
+        },
+        {
+            "ruleId": 99
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Kristrup skole-vilde vulkaner"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "134100"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Kristrup skole-vilde vulkaner",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002475-00029"
+        },
+        {
+            "ruleId": 100
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Kristrup Skole-Lejrskole"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "824395"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Kristrup Skole-Lejrskole",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002475-00015"
+        },
+        {
+            "ruleId": 101
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Kristrup skole-Elevråd"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "894390"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Kristrup skole-Elevråd",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002475-00018"
+        },
+        {
+            "ruleId": 102
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "RU fælles kiosk"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "192334"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP RU fælles kiosk",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000002668-00027"
+        },
+        {
+            "ruleId": 103
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Musikskole"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "440754"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Randers Musikskole",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004087-00001"
+        },
+        {
+            "ruleId": 104
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Sammenhængskonference i Familieområdet"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "940094"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Sammenhængskonference i Familieområdet",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000002830-00001"
+        },
+        {
+            "ruleId": 105
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Bar Ridehus/Amfi"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "660231"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Bar Ridehus/Amfi",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004100-00018"
+        },
+        {
+            "ruleId": 106
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Kaffeautomater-Sprogcenter Randers"
+        },
+        {
+            "name": "myShopNumber",
+            "value": "710462"
+        },
+        {
+            "name": "brandId"
+        },
+        {
+            "Posteringstekst": "MP Kaffeautomater-Sprogcenter Randers",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000003397-00050"
+        },
+        {
+            "ruleId": 107
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Syd Vorup Plejehjem cafe"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "f049197e-0f0a-47ff-a464-ecc21ea28eff"
+        },
+        {
+            "Posteringstekst": "MP Område Syd Vorup Plejehjem cafe",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00041"
+        },
+        {
+            "ruleId": 108
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Syd Lindevænget"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "edd74eec-f3bc-446a-a56d-e426336c0c1e"
+        },
+        {
+            "Posteringstekst": "MP Område Syd Lindevænget",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00036"
+        },
+        {
+            "ruleId": 109
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Syd Svaleparken"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "c91e7d33-3334-46bb-8b2f-b256328375ac"
+        },
+        {
+            "Posteringstekst": "MP Område Syd Svaleparken",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00038"
+        },
+        {
+            "ruleId": 110
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Vest Kollektivhuset"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "ac28534c-4689-407c-8227-1e851173dbb4"
+        },
+        {
+            "Posteringstekst": "MP Område Vest Kollektivhuset",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00044"
+        },
+        {
+            "ruleId": 111
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Vest Terneparken"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "8778a1f5-4846-4e78-9151-cb1c4a0a55d4"
+        },
+        {
+            "Posteringstekst": "MP Område Vest Terneparken",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00048"
+        },
+        {
+            "ruleId": 112
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Syd Tirsdalen"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "810ca2fb-fc47-4c65-b053-b682e52a20e3"
+        },
+        {
+            "Posteringstekst": "MP Område Syd Tirsdalen",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00040"
+        },
+        {
+            "ruleId": 113
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Nord Dronningborg"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "6b37446f-e5dc-45d7-8efa-f10a6b4b40e6"
+        },
+        {
+            "Posteringstekst": "MP Område Nord Dronningborg",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00030"
+        },
+        {
+            "ruleId": 114
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Vest Borupvænget"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "5e7cb329-52ec-42f5-99ef-6b02cc3c5274"
+        },
+        {
+            "Posteringstekst": "MP Område Vest Borupvænget",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00046"
+        },
+        {
+            "ruleId": 115
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Nord Møllevang"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "4e4c0117-42f7-45f9-839e-11a16bec5eef"
+        },
+        {
+            "Posteringstekst": "MP Område Nord Møllevang",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00033"
+        },
+        {
+            "ruleId": 116
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Thors Bakke"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "55f1f202-b10c-4177-8ae1-3da6da9d13d5"
+        },
+        {
+            "Posteringstekst": "MP Thors Bakke",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00039"
+        },
+        {
+            "ruleId": 117
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Nord Bakkegården"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "1457b4db-6d02-44cb-916c-8c7bf9e3463a"
+        },
+        {
+            "Posteringstekst": "MP Område Nord Bakkegården",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00028"
+        },
+        {
+            "ruleId": 118
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Café Nellemann"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "07600a99-58cd-42b8-b83e-03a2e3cfb04c"
+        },
+        {
+            "Posteringstekst": "MP Café Nellemann",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00037"
+        },
+        {
+            "ruleId": 119
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Fjords Færgefart"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "b5c4a33b-2cf0-4075-b524-df12c6994974"
+        },
+        {
+            "Posteringstekst": "MP Randers Fjords Færgefart",
+            "Artskonto": "79000000",
+            "PSP": "XG-0000005094-00001"
+        },
+        {
+            "ruleId": 120
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Randers Bibliotek"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "f34a20f8-d194-41c4-a977-49469b0ec907"
+        },
+        {
+            "Posteringstekst": "MP Randers Bibliotek",
+            "Artskonto": "95941203"
+        },
+        {
+            "ruleId": 121
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Norde Åbakken"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "e576cad2-7418-47c4-8437-0d97b4d1696b"
+        },
+        {
+            "Posteringstekst": "MP Område Norde Åbakken",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00031"
+        },
+        {
+            "ruleId": 122
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Syd Huset Nyvang"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "c9a8160e-5af7-413f-bf43-7e65fa85cbfd"
+        },
+        {
+            "Posteringstekst": "MP Område Syd Huset Nyvang",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00035"
+        },
+        {
+            "ruleId": 123
+        }
+    ],
+    [
+        {
+            "name": "name",
+            "value": "Område Vest Kildevang"
+        },
+        {
+            "name": "myShopNumber"
+        },
+        {
+            "name": "brandId",
+            "value": "77291057-f418-4e5c-bae1-7f3fc13704ff"
+        },
+        {
+            "Posteringstekst": "MP Område Vest Kildevang",
+            "Artskonto": "72000000",
+            "PSP": "XG-0000004526-00045"
+        },
+        {
+            "ruleId": 124
+        }
+    ]
+]

@@ -1,11 +1,13 @@
 const Node = {
-  "id": "de3f54fb76dda590",
-  "type": "watch",
+  "id": "df5ead9d29792580",
+  "type": "complete",
   "z": "5a8afc5afb89916f",
   "g": "248b6faf1bd25dc8",
-  "name": "on change",
-  "files": "/data/konteringsregler/konteringsregler.json",
-  "recursive": "",
+  "name": "",
+  "scope": [
+    "795be8d0cedbf0aa"
+  ],
+  "uncaught": false,
   "x": 55,
   "y": 380,
   "wires": [

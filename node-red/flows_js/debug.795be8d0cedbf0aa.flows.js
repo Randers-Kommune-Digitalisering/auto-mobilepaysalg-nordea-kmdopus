@@ -3,7 +3,7 @@ const Node = {
   "type": "debug",
   "z": "5a8afc5afb89916f",
   "g": "98ab6d386009ccb8",
-  "name": "Regler læst fra JSON",
+  "name": "Regler skrevet til JSON",
   "active": true,
   "tosidebar": true,
   "console": true,
