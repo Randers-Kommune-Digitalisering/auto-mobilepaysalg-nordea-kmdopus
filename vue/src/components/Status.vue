@@ -16,7 +16,7 @@ fetch('/api/status')
 </script>
 
 <template>
-    Status på løsningen tekniske komponenter:
+    Status på løsningens tekniske komponenter:
     
     <div>
         <span>Node-RED</span>:

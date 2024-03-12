@@ -7,7 +7,7 @@ const Node = {
   "tosidebar": true,
   "console": true,
   "tostatus": false,
-  "complete": "{\t   \"Error\": error,\t   \"Explanation\": \"Error regarding nodes around HTTP request\",\t   \"Timestamp\": $now()\t\t}",
+  "complete": "{\t   \"Error\": error,\t   \"Description\": \"Error regarding nodes around HTTP request\",\t   \"Timestamp\": $now()\t\t}",
   "targetType": "jsonata",
   "statusVal": "",
   "statusType": "auto",

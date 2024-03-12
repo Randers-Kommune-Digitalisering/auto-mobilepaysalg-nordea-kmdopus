@@ -8,12 +8,12 @@ const Node = {
   "tosidebar": true,
   "console": true,
   "tostatus": false,
-  "complete": "{\t   \"Error\": error,\t   \"Explanation\": \"Error is likely due to some issue with updated rules or rules json\",\t   \"Timestamp\": $now()\t}",
+  "complete": "{\t   \"Error\": error,\t   \"Description\": \"Error is likely due to some issue with updated rules or rules json\",\t   \"Timestamp\": $now()\t}",
   "targetType": "jsonata",
   "statusVal": "",
   "statusType": "auto",
-  "x": 1250,
-  "y": 500,
+  "x": 1230,
+  "y": 540,
   "wires": []
 }
 

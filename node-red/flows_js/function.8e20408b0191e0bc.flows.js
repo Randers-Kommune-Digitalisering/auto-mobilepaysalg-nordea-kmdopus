@@ -2,6 +2,7 @@ const Node = {
   "id": "8e20408b0191e0bc",
   "type": "function",
   "z": "VueExample",
+  "g": "d4af806691aedd75",
   "name": "Update rule",
   "func": "",
   "outputs": 1,
@@ -9,8 +10,8 @@ const Node = {
   "initialize": "",
   "finalize": "",
   "libs": [],
-  "x": 670,
-  "y": 540,
+  "x": 230,
+  "y": 400,
   "wires": [
     [
       "c189d6154203c86d",

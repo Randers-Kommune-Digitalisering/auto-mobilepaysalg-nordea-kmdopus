@@ -6,15 +6,15 @@ const Node = {
   "name": "parse",
   "sep": ";",
   "hdrin": true,
-  "hdrout": "all",
+  "hdrout": "none",
   "multi": "mult",
   "ret": "\\r\\n",
   "temp": "",
   "skip": "0",
   "strings": true,
-  "include_empty_strings": true,
+  "include_empty_strings": false,
   "include_null_values": false,
-  "x": 285,
+  "x": 275,
   "y": 340,
   "wires": [
     [

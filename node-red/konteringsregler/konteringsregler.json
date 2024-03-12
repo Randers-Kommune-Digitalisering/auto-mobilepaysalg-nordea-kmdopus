@@ -412,7 +412,7 @@
         {
             "Posteringstekst": "MP Grønhøjskolen",
             "Artskonto": "72000000",
-            "PSP": "XG-0000002415-00037"
+            "PSP": "XG-0000002415-00039"
         },
         {
             "ruleId": 19
@@ -788,7 +788,7 @@
         {
             "Posteringstekst": "MP Hjernecenter Randers",
             "Artskonto": "79000000",
-            "PSP": "XG-0000003021-00354"
+            "PSP": "XG-0000003020-00050"
         },
         {
             "ruleId": 37
@@ -851,7 +851,7 @@
         {
             "Posteringstekst": "MP Boligerne Lene Bredahls Gade",
             "Artskonto": "79000000",
-            "PSP": "XG-0000003038-00034"
+            "PSP": "XG-3038-36"
         },
         {
             "ruleId": 40
@@ -922,7 +922,7 @@
     [
         {
             "name": "name",
-            "value": "Randers Kommune Udlån 1"
+            "value": "Randers Kommune, Mobilepay 735596 Udlån 1"
         },
         {
             "name": "myShopNumber",
@@ -932,7 +932,7 @@
             "name": "brandId"
         },
         {
-            "Posteringstekst": "MP Randers Kommune Udlån 1",
+            "Posteringstekst": "MP Randers Kommune, Mobilepay 735596 Udlån 1",
             "Artskonto": "95990009"
         },
         {
@@ -984,7 +984,7 @@
     [
         {
             "name": "name",
-            "value": "Trekløverskolen- Borup Byvej  - Fester"
+            "value": "Trekløverskolen- Borup Byvej - Fester"
         },
         {
             "name": "myShopNumber",
@@ -994,7 +994,7 @@
             "name": "brandId"
         },
         {
-            "Posteringstekst": "MP Trekløverskolen- Borup Byvej  - Fester",
+            "Posteringstekst": "MP Trekløverskolen- Borup Byvej - Fester",
             "Artskonto": "72000000",
             "PSP": "XG-0000002890-00059"
         },
@@ -1005,27 +1005,7 @@
     [
         {
             "name": "name",
-            "value": "Gebyr"
-        },
-        {
-            "name": "myShopNumber"
-        },
-        {
-            "name": "brandId"
-        },
-        {
-            "Posteringstekst": "MP Gebyr",
-            "Artskonto": "40000000",
-            "PSP": "XG-0000000006-00007"
-        },
-        {
-            "ruleId": 48
-        }
-    ],
-    [
-        {
-            "name": "name",
-            "value": "Randers Kommune Udlån 2"
+            "value": "Randers Kommune Udlån 2 989541"
         },
         {
             "name": "myShopNumber",
@@ -1035,11 +1015,11 @@
             "name": "brandId"
         },
         {
-            "Posteringstekst": "MP Randers Kommune Udlån 2",
+            "Posteringstekst": "MP Randers Kommune Udlån 2 989541",
             "Artskonto": "95990009"
         },
         {
-            "ruleId": 49
+            "ruleId": 48
         }
     ],
     [
@@ -1059,7 +1039,7 @@
             "Artskonto": "95941300"
         },
         {
-            "ruleId": 50
+            "ruleId": 49
         }
     ],
     [
@@ -1079,7 +1059,7 @@
             "Artskonto": "95941300"
         },
         {
-            "ruleId": 51
+            "ruleId": 50
         }
     ],
     [
@@ -1099,7 +1079,7 @@
             "Artskonto": "95941300"
         },
         {
-            "ruleId": 52
+            "ruleId": 51
         }
     ],
     [
@@ -1119,7 +1099,7 @@
             "Artskonto": "95941300"
         },
         {
-            "ruleId": 53
+            "ruleId": 52
         }
     ],
     [
@@ -1139,7 +1119,7 @@
             "Artskonto": "95941300"
         },
         {
-            "ruleId": 54
+            "ruleId": 53
         }
     ],
     [
@@ -1159,7 +1139,7 @@
             "Artskonto": "95941300"
         },
         {
-            "ruleId": 55
+            "ruleId": 54
         }
     ],
     [
@@ -1180,7 +1160,7 @@
             "PSP": "XG-0000004526-00044"
         },
         {
-            "ruleId": 56
+            "ruleId": 55
         }
     ],
     [
@@ -1201,27 +1181,7 @@
             "PSP": "XG-0000004526-00041"
         },
         {
-            "ruleId": 57
-        }
-    ],
-    [
-        {
-            "name": "name",
-            "value": "Kopi biblioteket HB"
-        },
-        {
-            "name": "myShopNumber",
-            "value": "742242"
-        },
-        {
-            "name": "brandId"
-        },
-        {
-            "Posteringstekst": "MP Kopi biblioteket HB",
-            "Artskonto": "95941207"
-        },
-        {
-            "ruleId": 58
+            "ruleId": 56
         }
     ],
     [
@@ -1241,7 +1201,7 @@
             "Artskonto": "95941206"
         },
         {
-            "ruleId": 59
+            "ruleId": 57
         }
     ],
     [
@@ -1261,7 +1221,7 @@
             "Artskonto": "95941204"
         },
         {
-            "ruleId": 60
+            "ruleId": 58
         }
     ],
     [
@@ -1281,7 +1241,7 @@
             "Artskonto": "95941205"
         },
         {
-            "ruleId": 61
+            "ruleId": 59
         }
     ],
     [
@@ -1302,7 +1262,7 @@
             "PSP": "XG-0000002511-00020"
         },
         {
-            "ruleId": 62
+            "ruleId": 60
         }
     ],
     [
@@ -1323,7 +1283,7 @@
             "PSP": "XG-0000005010-00080"
         },
         {
-            "ruleId": 63
+            "ruleId": 61
         }
     ],
     [
@@ -1344,7 +1304,7 @@
             "PSP": "XG-0000004526-00051"
         },
         {
-            "ruleId": 64
+            "ruleId": 62
         }
     ],
     [
@@ -1362,10 +1322,10 @@
         {
             "Posteringstekst": "MP Affaldskontoret",
             "Artskonto": "72000000",
-            "PSP": "XG-0000005285-00006 "
+            "PSP": "XG-0000005285-00006"
         },
         {
-            "ruleId": 65
+            "ruleId": 63
         }
     ],
     [
@@ -1383,10 +1343,10 @@
         {
             "Posteringstekst": "MP Kristrupcentret",
             "Artskonto": "79000000",
-            "PSP": "XG-0000004526-00034 "
+            "PSP": "XG-0000004526-00034"
         },
         {
-            "ruleId": 66
+            "ruleId": 64
         }
     ],
     [
@@ -1407,7 +1367,7 @@
             "PSP": "XG-0000002598-00003"
         },
         {
-            "ruleId": 67
+            "ruleId": 65
         }
     ],
     [
@@ -1428,7 +1388,7 @@
             "PSP": "XG-0000004526-00037"
         },
         {
-            "ruleId": 68
+            "ruleId": 66
         }
     ],
     [
@@ -1449,7 +1409,7 @@
             "PSP": "XG-0000002359-00016"
         },
         {
-            "ruleId": 69
+            "ruleId": 67
         }
     ],
     [
@@ -1470,7 +1430,7 @@
             "PSP": "XG-0000002501-00022"
         },
         {
-            "ruleId": 70
+            "ruleId": 68
         }
     ],
     [
@@ -1491,7 +1451,7 @@
             "PSP": "XG-0000004025-00002"
         },
         {
-            "ruleId": 71
+            "ruleId": 69
         }
     ],
     [
@@ -1508,11 +1468,11 @@
         },
         {
             "Posteringstekst": "MP Madservice Kronjylland ",
-            "Artskonto": "79000000",
-            "PSP": "XG-0000004526-00020"
+            "Artskonto": "72000000",
+            "PSP": "xg-0000004526-00018"
         },
         {
-            "ruleId": 72
+            "ruleId": 70
         }
     ],
     [
@@ -1533,7 +1493,7 @@
             "PSP": "XG-0000005004-00023"
         },
         {
-            "ruleId": 73
+            "ruleId": 71
         }
     ],
     [
@@ -1554,7 +1514,7 @@
             "PSP": "XG-0000003038-00105"
         },
         {
-            "ruleId": 74
+            "ruleId": 72
         }
     ],
     [
@@ -1575,7 +1535,7 @@
             "PSP": "XG-0000002392-00042"
         },
         {
-            "ruleId": 75
+            "ruleId": 73
         }
     ],
     [
@@ -1596,7 +1556,7 @@
             "PSP": "XG-0000004526-00026"
         },
         {
-            "ruleId": 76
+            "ruleId": 74
         }
     ],
     [
@@ -1617,7 +1577,7 @@
             "PSP": "XG-0000002555-00002"
         },
         {
-            "ruleId": 77
+            "ruleId": 75
         }
     ],
     [
@@ -1638,7 +1598,7 @@
             "PSP": "XG-0000002564-00001"
         },
         {
-            "ruleId": 78
+            "ruleId": 76
         }
     ],
     [
@@ -1658,7 +1618,7 @@
             "Artskonto": "95932400"
         },
         {
-            "ruleId": 79
+            "ruleId": 77
         }
     ],
     [
@@ -1679,7 +1639,7 @@
             "PSP": "XG-0000004526-00036"
         },
         {
-            "ruleId": 80
+            "ruleId": 78
         }
     ],
     [
@@ -1700,7 +1660,7 @@
             "PSP": "XG-0000004526-00038"
         },
         {
-            "ruleId": 81
+            "ruleId": 79
         }
     ],
     [
@@ -1721,7 +1681,7 @@
             "PSP": "XG-0000004526-00040"
         },
         {
-            "ruleId": 82
+            "ruleId": 80
         }
     ],
     [
@@ -1742,7 +1702,7 @@
             "PSP": "XG-0000002461-00001"
         },
         {
-            "ruleId": 83
+            "ruleId": 81
         }
     ],
     [
@@ -1763,7 +1723,7 @@
             "PSP": "XG-0000002544-00024"
         },
         {
-            "ruleId": 84
+            "ruleId": 82
         }
     ],
     [
@@ -1781,10 +1741,10 @@
         {
             "Posteringstekst": "MP Fritidsklubben Vennelyst",
             "Artskonto": "72000000",
-            "PSP": "XG-0000002484-00001 "
+            "PSP": "XG-0000002484-00001"
         },
         {
-            "ruleId": 85
+            "ruleId": 83
         }
     ],
     [
@@ -1805,7 +1765,7 @@
             "PSP": "XG-0000002452-00024"
         },
         {
-            "ruleId": 86
+            "ruleId": 84
         }
     ],
     [
@@ -1825,7 +1785,7 @@
             "Artskonto": "95990009"
         },
         {
-            "ruleId": 87
+            "ruleId": 85
         }
     ],
     [
@@ -1846,7 +1806,7 @@
             "PSP": "XG-0000003397-00016"
         },
         {
-            "ruleId": 88
+            "ruleId": 86
         }
     ],
     [
@@ -1864,10 +1824,10 @@
         {
             "Posteringstekst": "MP Søndermarkskolen - Skolefest",
             "Artskonto": "79000000",
-            "PSP": "XG-0000002531-00002 "
+            "PSP": "XG-0000002531-00002"
         },
         {
-            "ruleId": 89
+            "ruleId": 87
         }
     ],
     [
@@ -1885,10 +1845,10 @@
         {
             "Posteringstekst": "MP Kloge Hænder Messe - velfærd med omtanke 2023",
             "Artskonto": "79000000",
-            "PSP": "XG-0000003020-00276 "
+            "PSP": "XG-0000003020-00276"
         },
         {
-            "ruleId": 90
+            "ruleId": 88
         }
     ],
     [
@@ -1909,7 +1869,7 @@
             "PSP": "XG-0000003078-00122"
         },
         {
-            "ruleId": 91
+            "ruleId": 89
         }
     ],
     [
@@ -1930,7 +1890,7 @@
             "PSP": "XG-0000002669-00008"
         },
         {
-            "ruleId": 92
+            "ruleId": 90
         }
     ],
     [
@@ -1951,7 +1911,7 @@
             "PSP": "XG-0000002426-00017"
         },
         {
-            "ruleId": 93
+            "ruleId": 91
         }
     ],
     [
@@ -1969,10 +1929,10 @@
         {
             "Posteringstekst": "MP Randers Cykelby-Udlån cykler",
             "Artskonto": "79000000",
-            "PSP": "XG-0000005063-00011 "
+            "PSP": "XG-0000005063-00011"
         },
         {
-            "ruleId": 94
+            "ruleId": 92
         }
     ],
     [
@@ -1993,7 +1953,7 @@
             "PSP": "XG-0000003038-00171"
         },
         {
-            "ruleId": 95
+            "ruleId": 93
         }
     ],
     [
@@ -2011,10 +1971,10 @@
         {
             "Posteringstekst": "MP Assentoftskolen",
             "Artskonto": "79000000",
-            "PSP": "XG-0000002369-00020"
+            "PSP": "xg-2369-22"
         },
         {
-            "ruleId": 96
+            "ruleId": 94
         }
     ],
     [
@@ -2035,7 +1995,7 @@
             "PSP": "XG-0000005096-00009"
         },
         {
-            "ruleId": 97
+            "ruleId": 95
         }
     ],
     [
@@ -2056,7 +2016,7 @@
             "PSP": "XA-9258200001-00041"
         },
         {
-            "ruleId": 98
+            "ruleId": 96
         }
     ],
     [
@@ -2077,7 +2037,7 @@
             "PSP": "XG-0000002555-00002"
         },
         {
-            "ruleId": 99
+            "ruleId": 97
         }
     ],
     [
@@ -2098,7 +2058,7 @@
             "PSP": "XG-0000002521-00031"
         },
         {
-            "ruleId": 100
+            "ruleId": 98
         }
     ],
     [
@@ -2119,7 +2079,7 @@
             "PSP": "XG-0000002382-00017"
         },
         {
-            "ruleId": 101
+            "ruleId": 99
         }
     ],
     [
@@ -2140,7 +2100,7 @@
             "PSP": "XG-0000002475-00029"
         },
         {
-            "ruleId": 102
+            "ruleId": 100
         }
     ],
     [
@@ -2161,7 +2121,7 @@
             "PSP": "XG-0000002475-00015"
         },
         {
-            "ruleId": 103
+            "ruleId": 101
         }
     ],
     [
@@ -2182,7 +2142,7 @@
             "PSP": "XG-0000002475-00018"
         },
         {
-            "ruleId": 104
+            "ruleId": 102
         }
     ],
     [
@@ -2203,7 +2163,7 @@
             "PSP": "XG-0000002668-00027"
         },
         {
-            "ruleId": 105
+            "ruleId": 103
         }
     ],
     [
@@ -2224,7 +2184,7 @@
             "PSP": "XG-0000004087-00001"
         },
         {
-            "ruleId": 106
+            "ruleId": 104
         }
     ],
     [
@@ -2245,7 +2205,7 @@
             "PSP": "XG-0000002830-00001"
         },
         {
-            "ruleId": 107
+            "ruleId": 105
         }
     ],
     [
@@ -2266,7 +2226,7 @@
             "PSP": "XG-0000004100-00018"
         },
         {
-            "ruleId": 108
+            "ruleId": 106
         }
     ],
     [
@@ -2287,7 +2247,7 @@
             "PSP": "XG-0000003397-00050"
         },
         {
-            "ruleId": 109
+            "ruleId": 107
         }
     ],
     [
@@ -2308,7 +2268,7 @@
             "PSP": "XG-0000004526-00041"
         },
         {
-            "ruleId": 110
+            "ruleId": 108
         }
     ],
     [
@@ -2329,7 +2289,7 @@
             "PSP": "XG-0000004526-00036"
         },
         {
-            "ruleId": 111
+            "ruleId": 109
         }
     ],
     [
@@ -2350,7 +2310,7 @@
             "PSP": "XG-0000004526-00038"
         },
         {
-            "ruleId": 112
+            "ruleId": 110
         }
     ],
     [
@@ -2371,7 +2331,7 @@
             "PSP": "XG-0000004526-00044"
         },
         {
-            "ruleId": 113
+            "ruleId": 111
         }
     ],
     [
@@ -2392,7 +2352,7 @@
             "PSP": "XG-0000004526-00048"
         },
         {
-            "ruleId": 114
+            "ruleId": 112
         }
     ],
     [
@@ -2413,7 +2373,7 @@
             "PSP": "XG-0000004526-00040"
         },
         {
-            "ruleId": 115
+            "ruleId": 113
         }
     ],
     [
@@ -2434,7 +2394,7 @@
             "PSP": "XG-0000004526-00030"
         },
         {
-            "ruleId": 116
+            "ruleId": 114
         }
     ],
     [
@@ -2455,7 +2415,7 @@
             "PSP": "XG-0000004526-00046"
         },
         {
-            "ruleId": 117
+            "ruleId": 115
         }
     ],
     [
@@ -2476,28 +2436,7 @@
             "PSP": "XG-0000004526-00033"
         },
         {
-            "ruleId": 118
-        }
-    ],
-    [
-        {
-            "name": "name",
-            "value": "PAS Borgerservice"
-        },
-        {
-            "name": "myShopNumber"
-        },
-        {
-            "name": "brandId",
-            "value": "45bbd6f9-013c-4af9-84ab-fdddaf12415b"
-        },
-        {
-            "Posteringstekst": "MP Thors Bakke",
-            "Artskonto": "72000000",
-            "PSP": "XG-0000004526-00039"
-        },
-        {
-            "ruleId": 119
+            "ruleId": 116
         }
     ],
     [
@@ -2518,7 +2457,7 @@
             "PSP": "XG-0000004526-00039"
         },
         {
-            "ruleId": 120
+            "ruleId": 117
         }
     ],
     [
@@ -2539,7 +2478,7 @@
             "PSP": "XG-0000004526-00028"
         },
         {
-            "ruleId": 121
+            "ruleId": 118
         }
     ],
     [
@@ -2560,7 +2499,7 @@
             "PSP": "XG-0000004526-00037"
         },
         {
-            "ruleId": 122
+            "ruleId": 119
         }
     ],
     [
@@ -2576,18 +2515,18 @@
             "value": "b5c4a33b-2cf0-4075-b524-df12c6994974"
         },
         {
-            "Posteringstekst": "MPRanders Fjords Færgefart",
+            "Posteringstekst": "MP Randers Fjords Færgefart",
             "Artskonto": "79000000",
             "PSP": "XG-0000005094-00001"
         },
         {
-            "ruleId": 123
+            "ruleId": 120
         }
     ],
     [
         {
             "name": "name",
-            "value": "Randers bibliotek"
+            "value": "Randers Bibliotek"
         },
         {
             "name": "myShopNumber"
@@ -2597,17 +2536,17 @@
             "value": "f34a20f8-d194-41c4-a977-49469b0ec907"
         },
         {
-            "Posteringstekst": "MP Randers bibliotek",
+            "Posteringstekst": "MP Randers Bibliotek",
             "Artskonto": "95941203"
         },
         {
-            "ruleId": 124
+            "ruleId": 121
         }
     ],
     [
         {
             "name": "name",
-            "value": "Område Nord Åbakken"
+            "value": "Område Norde Åbakken"
         },
         {
             "name": "myShopNumber"
@@ -2622,7 +2561,7 @@
             "PSP": "XG-0000004526-00031"
         },
         {
-            "ruleId": 125
+            "ruleId": 122
         }
     ],
     [
@@ -2643,7 +2582,7 @@
             "PSP": "XG-0000004526-00035"
         },
         {
-            "ruleId": 126
+            "ruleId": 123
         }
     ],
     [
@@ -2664,7 +2603,7 @@
             "PSP": "XG-0000004526-00045"
         },
         {
-            "ruleId": 127
+            "ruleId": 124
         }
     ]
 ]

@@ -3,7 +3,7 @@ const Node = {
   "type": "file in",
   "z": "5a8afc5afb89916f",
   "g": "248b6faf1bd25dc8",
-  "name": "get kont.regler",
+  "name": "get csv rules",
   "filename": "/data/konteringsregler/konteringsregler.csv",
   "filenameType": "str",
   "format": "utf8",
@@ -11,7 +11,7 @@ const Node = {
   "sendError": false,
   "encoding": "none",
   "allProps": true,
-  "x": 180,
+  "x": 170,
   "y": 340,
   "wires": [
     [

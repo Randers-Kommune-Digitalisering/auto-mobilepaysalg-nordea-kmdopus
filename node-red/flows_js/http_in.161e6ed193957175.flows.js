@@ -2,16 +2,17 @@ const Node = {
   "id": "161e6ed193957175",
   "type": "http in",
   "z": "VueExample",
-  "name": "",
+  "g": "95d2f19438cf5c53",
+  "name": "Read log",
   "url": "/logs/get/:file",
   "method": "get",
   "upload": false,
   "swaggerDoc": "",
-  "x": 140,
-  "y": 1360,
+  "x": 460,
+  "y": 220,
   "wires": [
     [
-      "6f3f95707ebcd995"
+      "d8c6c23d6f9b8d2e"
     ]
   ]
 }

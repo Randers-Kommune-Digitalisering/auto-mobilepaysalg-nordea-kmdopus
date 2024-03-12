@@ -2,7 +2,8 @@ const Node = {
   "id": "540868318e35f0c5",
   "type": "fs-file-lister",
   "z": "VueExample",
-  "name": "",
+  "g": "e17a774c2b54f15e",
+  "name": "Get files",
   "start": "/data/output",
   "pattern": "*.*",
   "folders": "*",
@@ -13,8 +14,8 @@ const Node = {
   "depth": 0,
   "stat": true,
   "showWarnings": true,
-  "x": 360,
-  "y": 860,
+  "x": 180,
+  "y": 220,
   "wires": [
     [
       "28fe139c3336acac"

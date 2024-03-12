@@ -6,7 +6,9 @@ const Node = {
   "name": "",
   "scope": [
     "27bcdd1c5f9fbd70",
-    "ad893c40a4b9d6f9"
+    "ad893c40a4b9d6f9",
+    "65b4fba0909b8b6a",
+    "7a8bf046e92e089c"
   ],
   "uncaught": false,
   "x": 1105,
