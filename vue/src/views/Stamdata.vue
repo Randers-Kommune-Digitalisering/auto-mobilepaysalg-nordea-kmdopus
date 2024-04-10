@@ -1,7 +1,6 @@
 <!-- Siden er tænkt til at brugeren skal oplyse ØS's konti til 9.05 og 9.59 -->
-<!-- På siden skal også bankkontonumre oplyses, med mulighed for at tilføje flere konti -->
-<!-- Hvis de andre banker har nogenlunde samme setup som Nordea, skal administrators ID og kontakt også udfyldes på siden -->
-<!-- Client Credentials, bankudbyder og ØS-udbyder bør blive i GitHub Secrets -->
+<!-- Bankudbyder og ØS-udbyder skal laves som dropdown  -->
+<!-- Client Credentials bør blive i GitHub Secrets -->
 
 <script setup>
     import Content from '@/components/Content.vue'
@@ -27,9 +26,9 @@
                 </tr>
             </thead>
             <tr>
-                <td>Jan Mølbæk</td>
-                <td>0123456890</td>
-                <td>regnskab@randers.dk</td>
+                <td><input></input></td>
+                <td><input></input></td>
+                <td><input></input></td>
             </tr>
         </table>
     </Content>
@@ -49,11 +48,12 @@
                 </tr>
             </thead>
             <tr>
-                <td>Hovedkonto</td>
-                <td>2212</td>
-                <td>5908764988</td>
+                <td><input></input></td>
+                <td><input></input></td>
+                <td><input></input></td>
             </tr>
         </table>
+        <br />
         <button @click="">Tilføj</button>
     </Content>
 
