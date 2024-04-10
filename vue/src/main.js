@@ -25,7 +25,7 @@ const router = createRouter({
             component: Start
         },
         {
-            path: '/', 
+            path: '/stamdata', 
             name: "Stamdata",
             component: Stamdata
         },        

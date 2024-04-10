@@ -6,7 +6,6 @@
 <script setup>
     import Content from '@/components/Content.vue'
     import IconTable from '@/components/icons/IconTable.vue'
-
 </script>
 
 <template>
