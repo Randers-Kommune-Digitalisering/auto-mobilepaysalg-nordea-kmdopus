@@ -1,7 +1,7 @@
 const Node = {
   "id": "98ab6d386009ccb8",
   "type": "group",
-  "z": "5a8afc5afb89916f",
+  "z": "7367c6ffae9acd60",
   "name": "Write rules JSON",
   "style": {
     "stroke": "none",
@@ -17,8 +17,8 @@ const Node = {
     "458515eb3237a74b",
     "1128c0b82061188c"
   ],
-  "x": 14,
-  "y": 499,
+  "x": 34,
+  "y": 239,
   "w": 1042,
   "h": 82
 }

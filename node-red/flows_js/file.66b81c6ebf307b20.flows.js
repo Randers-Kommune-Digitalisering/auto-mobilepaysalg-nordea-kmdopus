@@ -1,7 +1,7 @@
 const Node = {
   "id": "66b81c6ebf307b20",
   "type": "file",
-  "z": "5a8afc5afb89916f",
+  "z": "7367c6ffae9acd60",
   "g": "248b6faf1bd25dc8",
   "name": "csv > json",
   "filename": "/data/konteringsregler/konteringsregler.json",
@@ -10,8 +10,8 @@ const Node = {
   "createDir": true,
   "overwriteFile": "true",
   "encoding": "none",
-  "x": 505,
-  "y": 340,
+  "x": 525,
+  "y": 80,
   "wires": [
     [
       "50141bb66e77051e"

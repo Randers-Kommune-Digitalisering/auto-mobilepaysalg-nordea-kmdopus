@@ -1,8 +1,8 @@
 const Node = {
   "id": "248b6faf1bd25dc8",
   "type": "group",
-  "z": "5a8afc5afb89916f",
-  "name": "Convert rules",
+  "z": "7367c6ffae9acd60",
+  "name": "Synchronize rules",
   "style": {
     "stroke": "none",
     "fill": "#ffffbf",
@@ -27,8 +27,8 @@ const Node = {
     "2777335b68428e65",
     "df5ead9d29792580"
   ],
-  "x": 14,
-  "y": 279,
+  "x": 34,
+  "y": 19,
   "w": 1042,
   "h": 142
 }

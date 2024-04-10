@@ -1,7 +1,7 @@
 const Node = {
   "id": "2777335b68428e65",
   "type": "debug",
-  "z": "5a8afc5afb89916f",
+  "z": "7367c6ffae9acd60",
   "g": "248b6faf1bd25dc8",
   "name": "Regler konverteret til csv",
   "active": true,
@@ -12,8 +12,8 @@ const Node = {
   "targetType": "jsonata",
   "statusVal": "",
   "statusType": "auto",
-  "x": 995,
-  "y": 380,
+  "x": 1015,
+  "y": 120,
   "wires": [],
   "l": false
 }

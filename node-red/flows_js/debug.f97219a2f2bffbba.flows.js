@@ -1,7 +1,7 @@
 const Node = {
   "id": "f97219a2f2bffbba",
   "type": "debug",
-  "z": "5a8afc5afb89916f",
+  "z": "7367c6ffae9acd60",
   "g": "628c456dd82a8845",
   "name": "Regler læst fra JSON",
   "active": true,
@@ -12,8 +12,8 @@ const Node = {
   "targetType": "jsonata",
   "statusVal": "",
   "statusType": "auto",
-  "x": 995,
-  "y": 460,
+  "x": 1015,
+  "y": 200,
   "wires": [],
   "l": false
 }

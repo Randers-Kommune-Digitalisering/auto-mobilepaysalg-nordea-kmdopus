@@ -9,6 +9,10 @@
             "url": "/"
         },
         {
+            "title": "Stamdata",
+            "url": "/stamdata"
+        },
+        {
             "title": "Konteringsregler",
             "url": "/konteringsregler"
         },

@@ -6,7 +6,8 @@ const Node = {
   "name": "link out write new rule json",
   "mode": "link",
   "links": [
-    "a0f06fa4443a9d26"
+    "a0f06fa4443a9d26",
+    "892ecd38115ca4c0"
   ],
   "x": 335,
   "y": 380,

@@ -1,7 +1,7 @@
 const Node = {
   "id": "65b4fba0909b8b6a",
   "type": "file in",
-  "z": "5a8afc5afb89916f",
+  "z": "7367c6ffae9acd60",
   "g": "248b6faf1bd25dc8",
   "name": "get json rules",
   "filename": "/data/konteringsregler/konteringsregler.json",
@@ -11,8 +11,8 @@ const Node = {
   "sendError": false,
   "encoding": "none",
   "allProps": true,
-  "x": 170,
-  "y": 380,
+  "x": 190,
+  "y": 120,
   "wires": [
     [
       "7a8bf046e92e089c"

@@ -1,7 +1,7 @@
 const Node = {
   "id": "27bcdd1c5f9fbd70",
   "type": "file in",
-  "z": "5a8afc5afb89916f",
+  "z": "7367c6ffae9acd60",
   "g": "248b6faf1bd25dc8",
   "name": "get csv rules",
   "filename": "/data/konteringsregler/konteringsregler.csv",
@@ -11,8 +11,8 @@ const Node = {
   "sendError": false,
   "encoding": "none",
   "allProps": true,
-  "x": 170,
-  "y": 340,
+  "x": 190,
+  "y": 80,
   "wires": [
     [
       "30ea2e64ee09287c"
