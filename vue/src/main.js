@@ -12,6 +12,7 @@ import Konteringsregler from '@/views/Konteringsregler.vue'
 import RetKonteringsregel from '@/views/RetKonteringsregel.vue'
 import Filer from '@/views/Filer.vue'
 import Templates from '@/views/Templates.vue'
+import Stamdata from '@/views/Stamdata.vue'
 
 // Opsætning af URL routing
 
@@ -22,6 +23,11 @@ const router = createRouter({
             path: '/', 
             name: "Start",
             component: Start
+        },
+        {
+            path: '/', 
+            name: "Stamdata",
+            component: Stamdata
         },        
         {
             path: '/konteringsregler', 
