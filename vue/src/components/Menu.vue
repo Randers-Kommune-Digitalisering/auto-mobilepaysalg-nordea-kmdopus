@@ -21,7 +21,7 @@
             "url": "/inaktive_konteringsregler"
         },
         {
-            "title": "Undtagelser",
+            "title": "Undtagne konteringsregler",
             "url": "/undtagelser"
         },
         {
