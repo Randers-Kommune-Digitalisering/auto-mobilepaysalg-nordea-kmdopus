@@ -13,8 +13,16 @@
             "url": "/stamdata"
         },
         {
-            "title": "Konteringsregler",
+            "title": "Aktive konteringsregler",
             "url": "/konteringsregler"
+        },
+        {
+            "title": "Inaktive konteringsregler",
+            "url": "/inaktive_konteringsregler"
+        },
+        {
+            "title": "Undtagelser",
+            "url": "/undtagelser"
         },
         {
             "title": "Filer",
@@ -27,7 +35,6 @@
     const landingPageIndex = menuItems.value.findIndex(x => x.url == new URL(location.href).pathname)
     if(landingPageIndex !== -1)
         menuItems.value[ landingPageIndex ].selected = true
-
 
     // Function to visually update selected item
 

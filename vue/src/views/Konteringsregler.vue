@@ -1,4 +1,6 @@
-<script setup>
+<!-- Old code start -->
+
+<!-- <script setup>
     import { ref } from 'vue'
     import Content from '@/components/Content.vue'
     import IconTable from '@/components/icons/IconTable.vue'
@@ -80,14 +82,14 @@
         <table>
             <thead>
                 <tr>
-                    <!-- <th v-for="key in Object.keys(keyMap)" class="capitalize">{{key}}</th> -->
+                    <th v-for="key in Object.keys(keyMap)" class="capitalize">{{key}}</th>
                     <th class="capitalize">Navn</th>
                     <th class="capitalize">Nummer</th>
                     <th></th>
                 </tr>
             </thead>
             <tr v-for="obj in konteringsregler">
-                <!-- <td v-for="key in keyMap">{{ obj[key.id][key.key] }}</td> -->
+                <td v-for="key in keyMap">{{ obj[key.id][key.key] }}</td>
                 <td>{{ obj[keyMap.navn.id][keyMap.navn.key] }}</td>
                 <td>{{ obj[keyMap.nummer.id][keyMap.nummer.key] }}</td>
                 <td><router-link :to="'/retkonteringsregel/' + obj[ keyMap.id.id ][ keyMap.id.key ]"><button @click="">Rediger</button></router-link></td>
@@ -95,4 +97,64 @@
         </table>
     </Content>
 
+</template> -->
+
+<!-- Old code end -->
+
+<script setup>
+    import Content from '@/components/Content.vue'
+    import IconTable from '@/components/icons/IconTable.vue'
+</script>
+
+<template>
+
+    <h2>Konteringsregler</h2>
+    
+    <Content>
+        <template #icon>
+            <IconTable />
+        </template>
+        <template #heading>Administrator</template>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th class="capitalize">Navn</th>
+                    <th class="capitalize">Authenticator ID</th>
+                    <th class="capitalize">E-mail</th>                   
+                </tr>
+            </thead>
+            <tr>
+                <td><input></input></td>
+                <td><input></input></td>
+                <td><input></input></td>
+            </tr>
+        </table>
+    </Content>
+
+    <Content>
+        <template #icon>
+            <IconTable />
+        </template>
+        <template #heading>Bankkonti</template>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th class="capitalize">Navn</th>
+                    <th class="capitalize">Registreringsnummer</th>
+                    <th class="capitalize">Kontonummer</th>                   
+                </tr>
+            </thead>
+            <tr>
+                <td><input></input></td>
+                <td><input></input></td>
+                <td><input></input></td>
+            </tr>
+        </table>
+        <br />
+        <button @click="">Tilføj</button>
+    </Content>
+
 </template>
+

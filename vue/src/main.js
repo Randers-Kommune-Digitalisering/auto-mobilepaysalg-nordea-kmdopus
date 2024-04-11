@@ -13,6 +13,8 @@ import RetKonteringsregel from '@/views/RetKonteringsregel.vue'
 import Filer from '@/views/Filer.vue'
 import Templates from '@/views/Templates.vue'
 import Stamdata from '@/views/Stamdata.vue'
+import Inaktive_Konteringsregler from '@/views/Inaktive_Konteringsregler.vue'
+import Undtagelser from '@/views/Undtagelser.vue'
 
 // Opsætning af URL routing
 
@@ -31,8 +33,18 @@ const router = createRouter({
         },        
         {
             path: '/konteringsregler', 
-            name: "Konteringsregler",
+            name: "Aktive konteringsregler",
             component: Konteringsregler
+        },
+        {
+            path: '/inaktive_konteringsregler', 
+            name: "Inaktive_Konteringsregler",
+            component: Inaktive_Konteringsregler
+        },
+        {
+            path: '/undtagelser', 
+            name: "Undtagelser",
+            component: Undtagelser
         },        
         {
             path: '/retkonteringsregel/:id', 
