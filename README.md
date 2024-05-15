@@ -9,7 +9,8 @@ Filen bliver derefter manuelt indlæst i Opus.
 
 # Status
 
-Projektet er under udviklet.
+Projektet er nedlagt.
+Frontend i projektet bruges i udviklingen af [dette projekt](https://github.com/Randers-Kommune-Digitalisering/auto-bankposteringer-nordea-kmdopus).
 
 # Resources
 
