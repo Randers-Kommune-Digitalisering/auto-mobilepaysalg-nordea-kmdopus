@@ -43,11 +43,13 @@
             <thead>
                 <tr>
                     <th class="capitalize">Navn</th>
-                    <th class="capitalize">Registreringsnummer</th>
-                    <th class="capitalize">Kontonummer</th>                   
+                    <th class="capitalize">IBAN</th>
+                    <th class="capitalize">Spejlkonto i ØS</th>     
+                    <th class="capitalize">Mellemregning</th>     
                 </tr>
             </thead>
             <tr>
+                <td><input></input></td>
                 <td><input></input></td>
                 <td><input></input></td>
                 <td><input></input></td>
