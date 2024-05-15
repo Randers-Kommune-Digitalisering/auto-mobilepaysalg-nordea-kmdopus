@@ -20,13 +20,13 @@ fetch('/api/status')
     
     <div>
         <span>Node-RED</span>:
-        <span v-if="statusNodered" class="green heavy">{{statusNodered}}</span>
+        <span v-if="statusNodered" class="green heavy">Connected</span>
         <span v-else="statusNodered" class="red heavy">Not connected</span>
     </div>
 
     <div>
         <span>Express</span>:
-        <span v-if="statusExpress" class="green heavy">{{statusExpress}}</span>
+        <span v-if="statusExpress" class="green heavy">Running</span>
         <span v-else="statusExpress" class="red heavy">Not running</span>
     </div>
 </template>
